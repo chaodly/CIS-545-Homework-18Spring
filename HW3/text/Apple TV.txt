@@ -1,0 +1,258 @@
+Apple TV (stylized as tv) is a digital media player and a microconsole developed and sold by Apple Inc. It is a small network appliance and entertainment device that can receive digital data from a number of sources and stream it to a capable television.
+Apple TV is an HDMI-compliant source device. To use it for viewing, it has to be connected to an enhanced-definition or high-definition widescreen television via an HDMI cable. The device has no integrated controls and can only be controlled externally, either by an Apple Remote control device (with which it is shipped) using its infrared/bluetooth capability, by the Apple TV Remote app (downloadable from App Store) on iOS devices, such as the iPhone, iPod Touch, iPad, and Apple Watch, using its Wi-Fi capability, or by some third-party infrared remotes.
+Its Wi-Fi capability is also used to receive digital content from various iOS apps using AirPlay or directly from the iTunes Store, which is then streamed to the TV. It also plays digital content from the iTunes Store, Netflix, Hulu Plus, Now TV (UK only), YouTube and Vevo, Showtime Anytime along with the TV Everywhere portals of several cable and broadcast networks, and the video subscription portals of three of the four major North American sports leagues: MLB.tv, NBA League Pass and NHL.tv. It plays content from any macOS or Windows computer running iTunes. Apple began to promote the Live Tune-In feature that allows the viewer to ask Siri to tune to live streams of CBS, ESPN, and Disney XD among others that support Live Tune-In.
+
+
+== History ==
+
+
+=== 1st generation ===
+Apple TV was unveiled as a work in progress called "iTV" on September 12, 2006 using a modified Front Row interface using the Apple Remote. Apple started taking pre-orders for Apple TV on January 9, 2007. The name "iTV" was originally going to be used to keep it in line with the rest of their "i"-based products (iMac, iPod, etc.), but was not used because the British terrestrial broadcast network ITV holds the rights to the name in the UK and threatened to take legal action against Apple.
+Apple TV started shipping on March 21, 2007 with a 40 GB hard disk. Apple released a 160 GB HDD model on May 31, 2007; and ceased selling the 40 GB HDD version on September 14, 2009.
+On January 15, 2008, a major and free software upgrade was announced; this turned the Apple TV into a stand-alone device that no longer required a computer running iTunes on Mac OS X or Windows to stream or sync content to it, and making most of the Apple TV's hard disk redundant. The update allowed the device to rent and purchase content directly from iTunes Store, as well as download podcasts and stream photos from MobileMe (which was called .Mac at the time) and Flickr.
+On July 10, 2008, Apple released the iTunes Remote app on the App Store, and the Apple TV 2.1 software update that added recognition for the iPhone and iPod Touch as remote control devices intended as a software alternative to the Apple Remote. Later updates to the Apple TV, iTunes and Remote software added support for the iPad, and introduced support for new features as they were added to iTunes.
+On September 9, 2015, Apple officially classified the first generation Apple TV as being obsolete/vintage which means that owners of first generation Apple TV will no longer be able to get service for their old devices after this date.
+
+
+=== 2nd and 3rd generation ===
+The second generation Apple TV was unveiled on September 1, 2010, and was the first to run on a variant of iOS. The device was now housed in a very small all-black case, one-quarter the size of the original. The new model did away with an internal hard drive and had 8 GB internal flash storage, enough local storage for buffering purposes; all media was now streamed, instead of synced. The new device could also stream rented content from iTunes and video from computers or iOS devices via AirPlay. All content is drawn from online or locally connected sources.
+In July 2011, Apple discontinued the Front Row interface for Mac users.
+In the March 7, 2012 presentation that mainly dealt with the third generation iPad, Apple CEO Tim Cook announced a third version of the Apple TV. The third generation Apple TV is externally identical to the second generation model and includes a single-core A5 processor. It also supports 1080p content from iTunes and Netflix. On January 28, 2013, Apple released a third generation "Rev A" which included component changes.
+On March 9, 2015, Apple reduced the price of the third generation (Rev A) Apple TV to $69.
+On October 4, 2016, 9to5Mac reported that Apple had phased out the Apple TV 3, with Apple Store employees instructed to pull all demo units and units from store shelves. Shortly afterwards, Apple took down the purchase page for the Apple TV 3 from its website, with the link redirecting to the purchase page for the Apple TV 4.
+
+
+=== 4th generation ===
+On September 9, 2015, Apple announced the fourth generation Apple TV, to ship in October 2015. It is the first major update to the platform since the release of the second generation Apple TV on September 1, 2010. Tim Cook took the stage and said "The future of TV is apps". He also stated that the Apple TV needed a modern OS. While following the form factor of the previous 2nd and 3rd generation models, it is slightly taller in size. Featuring a new touch remote allowing swipe-to-select functionality instead of the old remote's arrow button, with integrated Siri support with a built in microphone and an accelerometer (IMU). The Siri button on the remote allows several functions, including searching across providers for content, accessing additional metadata, and video/audio controls.
+The 4th generation also uses a new operating system, tvOS, with an associated app store, allowing download of third-party apps for video, audio, games, and other content – initially from a limited range of providers on release, with others able to release further apps using new APIs allowing them to do so. A requirement of these apps and games is that they all must include interfacing with the new touchpad-enabled Siri remote. Craig Federighi said that tvOS is 95% based on iOS 9 with the interface and APIs being tweaked to support the big screen.
+Upon launch, there were several unexpected issues which included incompatibility with Apple's Remote app for iOS and WatchOS, which were fixed by Apple in December 2015. As Amazon's Fire TV competes directly with the Apple TV, Amazon declined to develop an Amazon Video application for the Apple TV. Amazon declined to sell the 4th generation Apple TV, and removed all 3rd generation SKUs in late October.
+NBCUniversal released a trio of applications to the tvOS App Store on May 27, 2016, enabling those with a satellite, cable or fiber television to log in to watch live and on-demand content via the Syfy, E!, Telemundo and Bravo applications with their Apple TV. The NBCUniversal applications give access to full seasons of the networks' most popular series, with current and past episodes of all series. NBCUniversal previously made NBC, USA, NBC Sports, and CNBC applications available for download and with the addition of the four new channels, it brings seven of NBCUniversal's networks to Apple TV users.
+On September 13, 2016, Apple released the tvOS 10 software update for the Apple TV, bringing an all new remote app, single-sign on, dark mode, HomeKit support, and many more features to the 4th Generation Apple TV.
+
+
+== Features ==
+Apple TV allows consumers to use an HDTV to stream video, music, and podcasts as well as downloading apps and games from the tvOS App Store. The first, second, and third generations offered limited content which Apple had provisioned to work with the Apple TV. These have now been discontinued in favor of the 4th Generation Apple TV, with an all new OS based on iOS called tvOS which lets developers create their own apps with their own interface that runs on the Apple TV. These include multimedia, music apps, and games.
+Features of the Apple TV Include:
+Video Streaming
+The primary function of the Apple TV is streaming video through the internet. Users of the Apple TV can rent or buy Movies and TV Shows from the iTunes Store, or stream video from the variety of services found in the tvOS App Store such as Netflix, Hulu, YouTube, Vimeo, HBO Now, Showtime, Sling TV, and DirecTV Now.
+Users can stream live and on-demand content from apps that support login through a cable provider by way of one universal app called TV. TV unifies all content into one central application that allows the user to watch whatever they want from any source while providing recommendations. These include ABC, NBC, CBS, NBA, NFL, NHL, WatchESPN, History Channel, Food Network, CNN, Fox News, HGTV, Disney, National Geographic, and many others. The upcoming single-sign on feature in tvOS 10.1 will allow users to log in to all of these apps at once, bypassing the need to authenticate each individually.
+
+Music and Podcasts Streaming
+Users can access their music and podcasts libraries that they purchased in iTunes through iCloud through the Music and Podcasts apps, respectively. In addition, users can also subscribe to music streaming services such as Apple Music, Pandora, Qello, and Vevo and access content that way.
+
+Photos
+The built in Photos app syncs user photos from iCloud Photo Library and displays them on TV. In addition, users can download third-party apps like Adobe Lightroom  to view, edit and share them.
+
+Apps and Games
+With the new 4th Generation Apple TV, users can download apps and games from the tvOS App Store. This app store is similar to the one found on the Apple iPhone and iPad. As of October 21, 2016, there are more than 530 Apple TV-compatible apps in the tvOS App Store.
+People can now use apps on tvOS that can do a wide variety of things, similar to iOS. Apps can now be ported from iOS easily by developers since tvOS and iOS share a common codebase and kernel.
+Examples include the Papa John's Pizza  app which allows for users to order pizza right from the Apple TV and Zillow which allows users to search for homes right on their TV.
+
+Games use the Accelerometer and Gyroscope along with the touchpad found on the Siri Remote for control. External Bluetooth Game controllers: (such as the SteelSeries Nimbus, or the HORIPAD ULTIMATE Wireless Gaming Controller) can also be paired.
+Examples include Asphalt 8, a driving game which can be played using the Siri Remote.
+
+Casting and Mirroring
+With AirPlay, users can stream or mirror content from your iOS device or Mac wirelessly. AirPlay can be accessed by swiping up from the bottom of the screen in Control Center on iOS or in the Menu Bar on a Mac. There are several different functions to AirPlay. These include:
+Casting which allows users to wirelessly send video or audio from their iPhone, iPad, or Mac to the Apple TV
+Mirroring which allows users to wirelessly mirror their screen and AirPlay Display on Mac which allows users to extend their Mac display to the TV, using it as a second monitor.
+Peer-to-Peer AirPlay which uses Bluetooth to connect if the Apple TV and the iOS Device/Mac are not on the same Wi-Fi network.
+
+Siri
+Siri is a voice assistant on the Apple TV 4 that allows a user to check the weather, stocks, sports scores, as well as searching for content across a multitude of different applications. Voice dictation can also be used in text fields, including usernames and passwords.
+Universal search is available for a wide number of apps in the United States, but the feature is limited to iTunes and Netflix in Canada, France, Germany, and the United Kingdom. In Australia, universal search on the fourth-generation Apple TV supports movies and TV shows in iTunes, Netflix, and Stan. Apple has been rapidly expanding the feature to encompass additional channels worldwide.
+
+HomeKIt
+Apple TV 4 can also be used as a home hub to control all of the HomeKit devices (such as locks, thermostats, or garage doors) in one's home. A user can use Siri on the Apple TV to control the devices or keep the Apple TV 4 plugged in and on the same WiFi network at all times so that they can remotely control their HomeKit devices from their iPhone while away from home.
+
+General
+HDMI CEC to control other devices in a user's home theater setup.
+App Switcher which enables users to switch apps
+Aerial Screensaver which allows the TV to display a flyover view of a city when the Apple TV is inactive. Screensavers can also be invoked from the home screen by pressing Menu on the Siri Remote once.
+
+
+=== App Store ===
+With the 4th generation Apple TV, Apple announced an App Store to go alongside it which will allow any developer to make apps using the APIs available in tvOS specifically tailored towards the TV. Also, since tvOS is based on iOS, any developer can port over apps from iOS and with a few modifications, as Apple stated on stage, can make them available for all Apple TV (4th generation) users with the App Store. The App Store will not be available to previous Apple TVs and will be an exclusive feature to the Apple TV (4th generation).
+
+
+== Accessibility ==
+tvOS and watchOS are based on iOS, and inherited many of the accessibility features of iOS and macOS and are compatible with Apple's entire product line including the Apple Watch as a remote controller for the Apple TV.
+tvOS includes the Apple technologies of VoiceOver, Zoom, and Siri to help the blind and those with low vision. VoiceOver, Apple’s screen reader is available for more than 30 languages and enables visually impaired users to know what is on the visual display and input responses to on-screen prompts. VoiceOver gestures uses gestures that Apple users are already familiar with in other Apple Products (flicks, taps, and the rotor) making the Apple TV familiar to the disabled in a way akin to how Apple designs their products to have a fit and finish consistency across product lines be it familiarity with OS X on a Macintosh, watchOS on an Apple Watch, or the iOS operating system on iPhones, iPads or iPods.
+Like other Apple products such as the iPhone with a three click sequence on the home button to activate accessibility features, with Apple TV's tvOS, the disabled user can activate VoiceOver without any installation process. One needs only to triple-click the Menu button on the Siri Remote and the Apple TV will guide the user through the complete initial setup, a task that is non-trivial to the visually impaired in most comparable products on the market.
+Another accessibility feature is to Increase contrast on the screen which acts by reducing the transparency of background elements on Movie and TV Show pages, menu tabs, and other parts of the operating system. The visually impaired can also turn on a high-contrast cursor to better delineate the focused content. The user can also opt to turn on Reduce Motion which in some screen actions, such as moving between app icons on the Home screen and launching apps are visually simpler which is of benefit to reduce strain on the eyes.
+tvOS enables users to watch movies with audio descriptions of what is being shown on the screen. Movies with audio descriptions are displayed with the AD (Audio Description) icon in the iTunes Store for tvOS and in iTunes on a Macintosh or Windows PC.
+Pairing a Bluetooth keyboard with the tvOS on the Apple TV enables another accessibility feature that also is an incorporation of VoiceOver. When typing, VoiceOver mirrors with an audio voice, each character pressed on the keyboard and repeated again when it is entered. The Apple TV is designed to work with the Apple Wireless Keyboard or the Apple Magic Keyboard. It will work however with almost any brand of bluetooth keyboard.
+Apple TV with and without tvOS supports closed captioning, so the deaf or hard of hearing can experience TV episodes and feature-length movies. Compatible episodes and movies are denoted with a CC (closed captioning) or SDH (Descriptive Audio) icon in the iTunes Store either on the Apple TV or in iTunes itself. The viewer can customize the captions in episodes or movies with styles and fonts that are more conducive to their hearing and/or visual impairment.
+The Touch surface on the Siri Remote is customizable. Tracking when set to Fast adjusts the thumb movements made to amplify the distance in relation to how far the thumb has moved on the glass touchpad. Conversely when tracking is set to slow, larger movements of the thumb on the touchpad will tune down the distance that is traversed on the screen. This can be of great help to those struggling with Parkinson's or other movement disorders to be able to use the Apple TV in a way that fits their disability.
+Apple's Remote app on iOS devices allows control of the Apple TV from an iPhone, iPad or iPod Touch. The iOS remote app increases the accessibility of the Apple TV by enabling Switch Control. Switch Control is a unique Apple technology that enables navigation sequentially through onscreen items and perform specific actions such as selecting, tapping, dragging, typing using third party Bluetooth-enabled switch hardware made for those with handicaps.
+
+
+== Restrictions ==
+Similar to Google's redesign of YouTube, Apple has restricted access to most viewed charts on movies and podcasts. They are replaced by "Top Movies", "Top Podcasts" and "Editor's Picks". User may be under the impression that a "Top" media is equivalent of most popular or most watched.
+Parental controls allow consumers to limit access to Internet media service content via "Restrictions" settings; individual services can be turned off (e.g., to reduce clutter), icons can be rearranged via the tap-and-hold technique à la iOS. Internet media is split into four categories: "Internet Photos", "YouTube", "Podcasts", and "Purchase and Rental". Each of the categories is configured by a parental control of "Show", "Hide" or "Ask" to prompt for a 4-digit PIN. In addition, movies, TV shows, music and podcasts can be restricted by rating.
+
+
+=== Local sources ===
+Apple TV can sync or stream photos, music and videos from a computer running iTunes.
+A user can connect a computer on a local network to maintain a central home media library of digitized CD, DVD or HD content, provide direct connectivity to photo organization software such as iPhoto, limit home video access to a local network only, play Internet radio, or preload content on Apple TV to be used later as a non-networked video player. For users who wish to connect the Apple TV to a computer, synchronization and streaming modes are supported.
+Apple TV in synchronization mode works in a way similar to the iPod. It is paired with an iTunes library on a single computer and can synchronize with that library, copying all or selected content to its own hard drive. Apple TV need not remain connected to the network after syncing. Photos can be synced from iPhoto, Aperture, or from a hard disk folder on a Mac, or Adobe Photoshop Album, Photoshop Elements, or from a hard disk folder in Windows.
+Apple TV can also function as a peer-to-peer digital media player, streaming content from iTunes libraries and playing the content over the network.
+1st generation Apple TVs can stream content from up to five computers or iTunes libraries. Also, five Apple TVs can be linked to the same iTunes library. The 2nd generation Apple TV onwards allows users to stream content from more than one iTunes library: these additional iTunes libraries can be on the same or on different computers. This is possible when Apple TV and every iTunes library from which you want to stream content meet all of the following conditions: (1) the Apple TV and the iTunes library you are streaming from are both on the same local network, (2) each uses the iTunes "Home Sharing" feature, and (3) each are using the same "Home Sharing" Apple ID.
+
+
+==== Supported formats ====
+Apple TV natively supports the following audio, video, and picture formats (although with the 4th generation, apps may use alternative built-in software in order to play other codecs and formats, e.g. Plex/ VLC Media Player):
+
+Attempts to sync unsupported content to Apple TV will draw an error message from iTunes.
+The 1st and 2nd generation Apple TV video output can be set to either 1080i or 1080p; however, this resolution is limited to the user interface and the viewing of photographs – all other content is simply upscaled to those resolutions. Those models cannot play 1080i or 1080p video content (e.g., HD camera video). The 3rd and 4th generation Apple TV support 1080p video content.
+Apple offers H.264 1080p movies and video podcasts on iTunes. In comparison, Blu-ray Disc films are 1080p H.264 or VC-1 video encoded at rates of up to 40 Mbit/s.
+Apple TV's audio chip supports 7.1 surround sound, and some high definition rentals from iTunes are offered with Dolby Digital 5.1 surround sound.
+There is an Apple TV export option in QuickTime which allows content in some formats that the device does not support to be easily re-encoded. Applications that use QuickTime to export media can use this; e.g., iMovie's Share menu, iTunes' advanced menu, and some third-party content conversion tools.
+
+
+=== Connectivity ===
+
+Apple TV streams video through an HDMI cable (Type A) connected to the TV's HDMI port. Audio is supported through the optical or HDMI ports. The device also has a Micro-USB port, which is reserved for service and diagnostics. The device connects through Ethernet or Wi-Fi to the computer for digital content from the Internet and local networks. Apple TV does not come with audio, video or other cables, which must be acquired additionally as required. On the previous Apple TV, media files could be transferred directly onto the device by syncing with another computer. Once content was stored on the device's hard drive, Internet connectivity was no longer needed to view content. This is not the case with the current model, which does not have a hard drive for storing media.
+The 1st generation Apple TV had component video and RCA connector audio ports, both removed in the 2nd generation. The device does not have RCA/composite video or F/RF connectors.
+Starting with the 4th generation Apple TV, Apple removed the optical audio port. Apple also enhanced the HDMI port by adding support for HDMI 1.4. The Micro-USB port was removed in favor of the reversible USB Type-C port.
+
+
+=== AirPlay ===
+
+AirPlay allows iOS devices or an AirPort-enabled computer with the iTunes music player to send a stream of music to multiple (three to six, in typical conditions) stereos connected to an AirPort Express (the audio-only antecedent of Apple TV) or Apple TV.
+The AirPort Express' streaming media capabilities use Apple's Remote Audio Output Protocol (RAOP), a proprietary variant of RTSP/RTP. Using WDS-bridging, the AirPort Express can allow AirPlay functionality (as well as Internet access, file and print sharing, etc.) across a larger distance in a mixed environment of wired and up to 10 wireless clients.
+Speakers attached to an AirPort Express or Apple TV can be selected from within the "Remote" iPhone/iPod Touch program, allowing full AirPlay compatibility (see "Remote control" section below).
+A compatible Mac running OS X Mountain Lion or later can wirelessly mirror its screen to an Apple TV through AirPlay Mirroring while one running OS X Mavericks or later can also extend its display with AirPlay Display.
+
+
+=== Remote control ===
+Apple TV can be controlled by many infrared remote controls or paired with the included Apple Remote to prevent interference from other remotes. Either kind of remote can control playback volume, but for music only.
+The Apple Wireless Keyboard is supported on the 2nd generation Apple TV and later using the built-in Bluetooth. The consumer has the ability to control media playback, navigate menus and input text and other information. Third-party keyboards that use the Apple layout may also be compatible.
+On July 10, 2008, Apple released Remote, a free iOS application that allows the iPhone, iPod Touch, and iPad to control the iTunes library on the Apple TV via Wi-Fi. The recently released Apple Watch also has a remote app to control Apple TV.
+The Remote App was updated on September 13, 2016, to take advantage of all the features of the Apple TV 4. This includes Siri, Touchpad, and Home Buttons, along with a now playing screen.
+On September 9, 2015, Apple announced the new Siri Remote for the 4th generation Apple TV (although in some territories, Apple have kept the name Apple TV Remote, due to Siri functionality not being enabled on it in that territory). It is a completely redesigned remote that features dual microphones for Siri support and a glass touch surface for navigation around the interface by swiping or tapping and scrubbing to fast forward or rewind. Also, it has a menu and home button, a Siri button to invoke Siri, a Play/Pause button, and a Volume Up/Down button to control the volume on the TV. The Siri Remote will communicate with the Apple TV via Bluetooth rather than infrared, and thus doesn't require a line-of-sight with the device. This new remote is only supported by the 4th generation Apple TV and will not work with earlier generations.
+
+
+=== Siri ===
+On the 4th generation Apple TV, the remote includes two microphones and a button to toggle on Siri. Siri on the Apple TV can do all of the things Siri on iOS 9 can; it can also respond to requests specifically for the TV. For instance, you can ask Siri to search for a TV show or movie and it will search across multiple different sources to tell the user where the content is available to watch. It can also do things such as Play/Pause, Rewind/Fast Forward, skip back 15 seconds and temporarily turn on captioning when asked "what did he say?" or "what did she say?", open a specific app, and more.
+
+
+=== Software ===
+
+
+==== 1st generation ====
+The original Apple TV ran a modified build of Mac OS X v10.4 Tiger
+Apple TV Software 1.0:
+Apple TV software 1.0 presented the user with an interface similar to that of Front Row. Like Front Row on the Mac, it presents the user with seven options for consuming content. Movies, TV Shows, Music, Podcasts, Photos, Settings, and Sources.
+Apple TV Software 2.0:
+In February 2008, Apple released a major and free upgrade to the Apple TV, labelled "Take Two"(2.0). This update did away with Front Row and introduced a new interface in which content was organized into six categories, all of which appeared in a large square box on the screen upon startup (movies, TV shows, music, YouTube, podcasts, and photos) and presented in the initial menu, along with a "Settings" option for configuration, including software updates.
+Apple TV Software 3.0:
+In October 2009, Apple released a minor upgrade for the Apple TV called "Apple TV Software 3.0". This update replaced the interface in version 2.0 with a new interface which presented seven horizontal columns across the top of the screen for the different categories of content (Movies, TV Shows, Music, Podcasts, Photos, Internet, and Settings). This update also added features such as content filtering, iTunes Extras, new fonts, and a new Internet radio app. The maximum resoloution incresased in both the 40 GB and 160 GB version to include 1080P.
+
+
+==== 2nd and 3rd generation ====
+The 2nd and 3rd generation Apple TVs run a version of iOS, rather than the modified Mac OS X of the original model.
+The interface on Apple TV OS 4 is similar to that of previous versions, with only minor changes and feature additions throughout. On March 2012, Apple released a major new software update, with the Apple TV 3, labeled as Apple TV OS 5 (iOS 5.1), which shipped with the new 3rd generation Apple TV. This update completely revised the look of the home screen to make it resemble the icon grid seen on iOS. Instead of 7 columns, content and third-party channels are shown in a tiled grid format, which can be rearranged. Throughout the years, for Apple TV OS 5-6, Apple released minor revisions, content additions, and feature updates.
+The Apple TV OS 7.0 features a flat look similar to iOS 7 and OS X Yosemite and adds features such as Peer-To-Peer AirPlay. Version 8.0 was skipped.
+The final OS update for the third-generation Apple TV is Apple TV software 7.2.2 (iOS 8.4.2) since it does not support tvOS 9.0 or later.
+
+
+==== 4th generation ====
+
+The fourth generation of Apple TV was released with a new operating system called tvOS which does not support the earlier generations of Apple TV. It features an app store, allowing third-party app developers to release their own apps on the platform. Also, this new software features support for Siri voice control. Craig Federighi mentioned that tvOS is based 95% on iOS 9 and the rest being adaptions to optimize it for the TV. The tvOS software development kit (SDK) for developing tvOS apps is included in Xcode 7.1 and later. A new development feature, App Thinning, is used in the Apple TV, running on tvOS, due to the memory restrictions of the device (32GB and 64GB) and the dual-use of the NAND Flash Memory to precache movies from Apple's content servers as well as storage for downloaded applications from the tvOS App Store.. Apple's aim is to limit the size of application downloads and steering users towards downloading individual segments of apps in order to better manage storage space. Developers have reacted with criticism towards the download size limits, arguing that it leads to situations where game data is purged and has to be re-downloaded.
+
+
+== Technical specifications ==
+
+
+== Modifications and hacks ==
+
+You can find the model number of your Apple TV by navigating inside your Apple TV to Settings, then General, and then About, and doing a web search for the model number shown there. For example, if you have model MC572LL/A, then you have a second generation Apple TV.
+It's important to determine the generation of your device before starting any modification process. Not all modifications work on all generations. Presently there is no way to jailbreak a third generation Apple TV.
+
+
+=== 1st generation ===
+During the days of the release of the first generation of Apple TV, various non-commercial and commercial hacks became available. These allowed users to remotely access the device, add support for other codecs, install a full-blown copy of Mac OS X Leopard and Mac OS X Tiger, access the hard drive via USB, use the device to browse the web, use non-Apple remote controls, and download metadata from the IMDb. In mid-2008, Fire Core released the aTV Flash software, which gives the Apple TV support for other media formats, a web browser, external USB hard drive support, and more. A free and open-source alternative, atvusb-creator, does much the same using a simple graphical interface on both Mac and Windows. [Please note that the Fire Core software support appears to be available and the majority of user hackable features including, the use of XBMC, is outdated and will not update properly].
+As of June 2011, Apple does not prevent users from modifying their Apple TVs, but does warn that applying hacks may void the product's warranty.
+Installing updates for the Apple TV system software typically removes software hacks, but major Apple TV hacks are updated regularly.
+Most plugins for Front Row are minor and have not been updated to work with Apple TV running Apple TV Software 2.x. AwkwardTV reports 10 plugins out of 32 have been certified compatible with the "Take Two" update.
+Popular modifications include replacing/complementing Apple TV's Front Row interface with alternative media center software, including Plex, XBMC Media Center, and Boxee. Though Boxee installs a Netflix Watch Instantly plugin, the Apple TV does not have enough processing power to run the Silverlight framework that the Netflix plugin depends on.
+Users have also upgraded the first generation's internal hard drive.
+A hardware hack allows the first generation of Apple TV to output color through composite video.
+True 1080p playback and video output can be enabled on the first generation Apple TV by using the update software feature in the General menu. Or by the more costly method of installing a Broadcom CrystalHD PCI-e card and version 10.0 (Dharma) and later of XBMC running on Linux instead of the native Mac OS X 10.4.x based operating system. This has been available since June 2010 and was originally created by Sam Nazarko. In March 2011, Nazarko released a GUI installer for both Linux and Windows platforms allowing quick installation of his minimal distribution. The distribution offers PVR support and AirPlay and still receives updates to this day.
+The AirPlay video and photo streaming feature was previously available on the first generation by installing the Remote HD plugin, Plex or XBMC Media Center.
+
+
+=== 2nd generation ===
+The Apple TV (2nd generation) is the first to have an operating system based on a version of iOS.
+Developers have applied iOS jailbreaking so that software unapproved by Apple that may void the warranty may be installed on this model of Apple TV. This can be accomplished by downloading the Apple TV's firmware from Apple's servers, then using a custom firmware application like Seas0nPass or PwnageTool to create a custom firmware. Users then connect their Apple TV to iTunes, place the Apple TV in DFU mode, and restore the custom firmware to the Apple TV.
+This custom firmware provides SSH support to the device where users may use APT to install software to the device, or a GUI version similar to Cydia called NitoTV which includes access to software drivers to enable the built-in Bluetooth functions. There is a limited amount of Apple TV compatible software. On January 20, 2011, the XBMC team released the first official version of XBMC Media Center for this second generation device. A limited thin client release of Plex Media Center has also been released. 2nd generation Apple TV's are significantly more expensive in second-hand markets than the 3rd, due to this jailbreaking ability.
+In February 2011, Greenpois0n RC6 brought full untethered jailbreak support for second generation on iOS 4.2.1 with a simpler jailbreak method than Seas0nPass or PwnageTool.
+
+
+=== 3rd generation/3rd Generation Rev-A ===
+The Apple TV (3rd generation) was released in March 2012. Four years since the device's release, the hacker community has failed to jailbreak the third generation device. According to FireCore LLC, there is a group of individuals attempting to discover a method to jailbreak the device. However, many leaders in the Apple TV hacker community have admitted defeat. The bootrom of Apple TV has been hardened to defend against the exploit used to jailbreak the second generation of Apple TV. A bootrom-level exploit is needed for a jailbreak because Apple TV disables its Micro-USB port until the device is fully booted. Plexconnect (giving Plex functionality) is available without a jailbreak for 2nd and 3rd generation.
+The above also applies to the Apple TV 3 Rev-A.
+
+
+=== 4th generation ===
+On March 23, 2016, The Pangu Team released a jailbreak tool for the 4th generation Apple TV running tvOS 9.0-9.0.1 that provides SSH access so that developers can port their jailbreak apps from iOS to tvOS. It doesn't provide a graphical interface such as Cydia and is unlikely to be used by the end user. In addition, the jailbreak requires a Mac with Xcode installed in order to install the jailbreak.
+
+
+== Limitations ==
+
+
+=== Functionality ===
+Apple TV does not contain a TV tuner, nor a personal video recorder. Both capabilities can be applied to the connected home computer through various third-party products, such as allowing PVR software to connect to iTunes and enable scheduled HDTV recordings to play automatically via Apple TV for playback.
+The Front Row interface lacks some iTunes functionality, including rating items, checking the account balance, adding funds to the account, synchronizing from more than one computer, full Internet radio support, and games.
+The Movies search box only searches the iTunes Store, not local hard drives and networks.
+Movies rented on Apple TV must be watched on Apple TV, unlike iTunes rentals, which can be transferred to any video-enabled iPod, iPhone or Apple TV. Movies purchased on Apple TV can be moved to a video-enabled iPod or iPhone via iTunes.
+Apple TV prior to 4th generation does not support the HDMI Consumer Electronics Control (HDMI CEC) protocol.
+On the Apple TV (2nd generation), digital output audio is up-sampled to 48 kHz, including lossless CD rips at 44.1 kHz. Although this is a higher frequency and the difference is not audible in most cases, it means the audio is not 'bit perfect' which is often a goal for digital transmission of data.
+
+
+== Sales ==
+
+
+=== 1st generation ===
+Within the first week of presales in January 2007, Apple TV was the top pre-selling item at the Apple Store. Orders exceeded 100,000 units by the end of January and Apple began ramping-up to sell over a million units before the 2007 holiday season. Analysts began calling it a "DVD killer" that could enable multiple services. Analysts also predicted that Apple could sell up to 1.5 million units in the first year. Besides the Apple Store, Best Buy was one of the first retailers to carry the device; Target and Costco followed shortly thereafter.
+Two months into sales, Forrester Research predicted that Apple would only sell a million Apple TV units, because consumers prefer advertisement-supported content over paid content. Forrester predicted that cable companies would be the clear winners over content providers such as the iTunes Store. Shortly after, Apple released YouTube functionality and Jobs stated that Apple TV was a "DVD player for the Internet". Some market analysts predicted that YouTube on Apple TV "provides a glimpse of this product's potential and its future evolution", but overall, analysts had mixed reactions regarding the future of Apple TV. Some negative reactions followed after Jobs referred to the device as a "hobby", implying it was less significant than the Macintosh, iPod, and iPhone.
+In the fourth quarter of 2008, sales were triple that of the fourth quarter of 2007.
+In Apple's first-quarter 2009 financial results conference call, acting chief executive Tim Cook stated that Apple TV sales increased three times over the same quarter a year ago. Cook mentioned that the movie rental business was working well for Apple, Apple would continue investment in movie rentals and Apple TV, but Apple TV is still considered a hobby for the company. Due to the growth of digital TV and consumers turning to Internet media services, an analyst predicted sales of 6.6 million Apple TVs by the end of 2009.
+
+
+=== 2nd generation ===
+The second generation sold 250,000 units in the first two weeks it was available. On December 21, 2010, Apple announced that they had sold 1 million units. In the second fiscal quarter of 2011, it had topped 2 million in total sales, with 820,000 sold in that quarter alone.
+On January 24, 2012, Apple announced they had sold 1.4 million units in the first fiscal quarter of 2012, and 2.8 million units in all of fiscal year 2011. (4.2 million units through January 1, 2012).
+
+
+=== 3rd generation ===
+Tim Cook revealed at the All Things Digital conference in May 2012 that Apple had sold 2.7 million of the 3rd generation model in 2012.
+In the Q4 FY2012 earnings call, Engadget reported comments from Tim Cook that Apple had shipped 1.3 million Apple TV units in the 4th Quarter (presumed to be 3rd generation).
+MacObserver reported statements by Tim Cook in the Q1 FY2013 earnings call that Apple sold over 2 million Apple TV units in the December Quarter (presumed to be 3rd generation).
+These reports lead to a cumulative volume of the 3rd generation device of 6 million units, as of January 1, 2013.
+On February 28, 2014 at Apple's shareholders meeting Apple CEO Tim Cook revealed that in 2013 Apple TV brought in 1 billion dollars of revenue for Apple
+A market survey published by Parks Associates in December 2014 found that Apple TV has lost consumer traction to Google Chromecast, garnering only a 17% market share.
+Tim Cook revealed at the Apple Watch conference on March 9, 2015 that Apple had sold a total of 25 million Apple TVs to date.
+
+
+=== 4th generation ===
+In the January 27, 2016 Apple earnings call, CEO Tim Cook stated that the Apple TV had record sales. However, no specific sales figures were mentioned; Apple TV is included in an "Other products" category, which also includes the Apple Watch, iPods, and Beats headphones, and which is not broken down by individual products.
+
+
+== See also ==
+
+Apple Bandai Pippin, a multimedia set-top entertainment networking device designed by Apple and sold during the mid-1990s.
+Apple Interactive Television Box, a set-top box developed by Apple in the mid-1990s.
+Comparison of set-top boxes
+Mac Mini Features the Front Row application. Which is a similar remote traverse interface to the Apple TV (The remote will open other programs until configured).
+Macintosh TV, Apple's first attempt at computer-television integration in the early 1990s.
+
+
+== References ==
+
+
+== External links ==
+ Quotations related to Apple TV at Wikiquote
+ Media related to Apple TV at Wikimedia Commons
+Apple TV – official site
+Apple TV Support – official product support

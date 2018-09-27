@@ -1,0 +1,40 @@
+A semi-arid climate or steppe climate is the climate of a region that receives precipitation below potential evapotranspiration, but not as low as a desert climate. There are different kinds of semi-arid climates, depending on variables such as temperature, and they give rise to different biomes.
+
+
+== Defining attributes of semi-arid climates ==
+A more precise definition is given by the Köppen climate classification, which treats steppe climates (BSk and BSh) as intermediates between desert climates (BW) and humid climates in ecological characteristics and agricultural potential. Semi-arid climates tend to support short or scrubby vegetation and are usually dominated by either grasses or shrubs.
+To determine if a location has a semi-arid climate, the precipitation threshold must first be determined. Finding the precipitation threshold (in millimeters) involves first multiplying the average annual temperature in °C by 20, then adding 280 if 70% or more of the total precipitation is in the high-sun half of the year (April through September in the Northern temperate zone, or October through March in the Southern), or 140 if 30%–70% of the total precipitation is received during the applicable period, or 0 if less than 30% of the total precipitation is so received. If the area's annual precipitation is less than the threshold but more than half the threshold, it is classified as a BS (steppe climate).
+Furthermore, to delineate "hot semi-arid climates" from "cold semi-arid climates", there are three widely used isotherms: Either a mean annual temperature of 18°C, or a mean temperature of 0°C or −3°C in the coldest month, so that a location with a "BS" type climate with the appropriate temperature above whichever isotherm is being used is classified as "hot semi-arid" (BSh), and a location with the appropriate temperature below the given isotherm is classified as "cold semi-arid" (BSk).
+
+
+== Hot semi-arid climates ==
+
+Hot semi-arid climates (type "BSh") tend to be located in the 20s and 30s latitudes (tropics and subtropics), typically in close proximity to regions with a tropical savanna climate or a humid subtropical climate. These climates tend to have hot, sometimes extremely hot, summers and warm to cool winters, with some to minimal precipitation. Hot semi-arid climates are most commonly found around the fringes of subtropical deserts. Hot semi-arid climates are most commonly found in Africa, Australia and South Asia. In Australia, a large portion of the Outback surrounding the central desert regions lies within the hot semi-arid climate region. In South Asia, both India and sections of Pakistan experiences the seasonal effects of monsoons and feature short but well-defined wet seasons, but is not sufficiently wet overall to qualify as a tropical savanna climate. Hot semi-arid climates can also be found in Europe (primarily in Spain), parts of North America, such as in Mexico, and areas of the Southwestern United States, and sections of South America such as the sertão, the Gran Chaco, and on the poleward side of the arid deserts where they typically feature a Mediterranean precipitation pattern, with generally rainless summers and wetter winters.
+
+
+== Cold semi-arid climates ==
+
+Cold semi-arid climates (type "BSk") tend to be located in temperate zones or elevated portions in subtropical zones, typically bordering a humid continental climate or a Mediterranean climate. They are typically found in continental interiors some distance from large bodies of water. Cold semi-arid climates usually feature warm to hot dry summers, though their summers are typically not quite as hot as those of hot semi-arid climates. Unlike hot semi-arid climates, areas with cold semi-arid climates tend to have cold winters. These areas usually see some snowfall during the winter, though snowfall is much lower than at locations at similar latitudes with more humid climates. Areas featuring cold semi-arid climates tend to have higher elevations than areas with hot semi-arid climates, and tend to feature major temperature swings between day and night, sometimes by as much as 20 °C (36 °F) or more in that time frame. These large diurnal temperature variations are seldom seen in hot semi-arid climates. Cold semi-arid climates at higher latitudes tend to have dry winters and wetter summers, while cold semi-arid climates at lower latitudes tend to have precipitation patterns more akin to subtropical climates, with dry summers, relatively wet winters, and even wetter springs and autumns. Cold semi-arid climates are most commonly found in Asia and North America. However, they can also be found in Northern Africa, South Africa, Europe, sections of South America and sections of interior southern Australia and New Zealand.
+
+
+== Regions of varying classification ==
+In climate classification, three isotherms means that delineate between hot and cold semi-arid climates — the 18°C average annual temperature or that of the coldest month (0°C or −3°C), the warm side of the isotherm of choice defining a BSh climate from the BSk on the cooler side. As a result of this, some areas can have climates that are classified as hot or cold semi-arid depending on the isotherm used. One such location is San Diego, California (at its main airport), which has cool summers for the latitude due to prevailing winds off the ocean (so the average annual temperature is below 18°C) but mild winters (average temperature in January, 14°C, and closer to the 18.0°C isotherm that separates tropical and subtropical climates than to the 0°C or −3°C isotherm for the coldest month that separates temperate and continental climates).
+
+
+== Charts of selected cities ==
+
+
+== See also ==
+Continental climate
+Dust Bowl (an era of devastating dust storms, mostly in the 1930s, in semi-arid areas on the Great Plains of the United States and Prairies of Canada)
+Goyder's Line (a boundary marking the limit of semi-arid climates in the Australian state of South Australia)
+Köppen climate classification
+Palliser's Triangle (semi-arid area of Canada)
+Ustic (Soil Moisture Regime)
+Wave height
+
+
+== References ==
+
+
+== External links ==

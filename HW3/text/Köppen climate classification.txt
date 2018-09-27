@@ -1,0 +1,349 @@
+Köppen climate classification is one of the most widely used climate classification systems. It was first published by Russian German climatologist Wladimir Köppen in 1884, with several later modifications by Köppen, notably in 1918 and 1936. Later, German climatologist Rudolf Geiger (1954, 1961) collaborated with Köppen on changes to the classification system, which is thus sometimes called the Köppen–Geiger climate classification system.
+The Köppen climate classification system has been further modified, within the Trewartha climate classification system in the middle 1960s (revised in 1980). The Trewartha system sought to create a more refined middle latitude climate zone, which was one of the criticisms of the Köppen system (the C climate group was too broad).
+
+
+== Meaning of symbols ==
+The Köppen climate classification scheme divides climates into five main climate groups: A (tropical), B (dry), C (temperate), D (continental), and E (polar). The second letter indicates the seasonal precipitation type, while the third letter indicates the level of heat.
+Group A: Tropical (megathermal) climates
+This type of climate has every month of the year with an average temperature of 18 °C (64.4 °F) or higher, with significant precipitation.
+Af = Tropical rainforest climate; average precipitation of at least 60 mm (2.4 in) in every month.
+Am = Tropical monsoon climate; driest month (which nearly always occurs at or soon after the "winter" solstice for that side of the equator) with precipitation less than 60 mm (2.4 in), but more than 4% the total annual precipitation.
+Aw or As = Tropical wet and dry or savanna climate; with the driest month having precipitation less than 60 mm (2.4 in) and less than 4% of the total annual precipitation.
+Group B: Dry (arid and semiarid) climates
+This type of climate is defined by little precipitation.
+Multiply the average annual temperature in Celsius by 20, then add
+(a) 280 if 70% or more of the total precipitation is in the spring and summer months (April–September in the Northern Hemisphere, or October–March in the Southern), or
+(b) 140 if 30%–70% of the total precipitation is received during the spring and summer, or
+(c) 0 if less than 30% of the total precipitation is received during the spring and summer.
+If the annual precipitation is less than 50% of this threshold, the classification is BW (arid: desert climate); if it is in the range of 50%–100% of the threshold, the classification is BS (semi-arid: steppe climate).
+A third letter can be included to indicate temperature. Originally, h signified low-latitude climate (average annual temperature above 18 °C (64.4 °F)) while k signified middle-latitude climate (average annual temperature below 18 °C), but the more common practice today, especially in the United States, is to use h to mean the coldest month has an average temperature above 0 °C (32 °F), with k denoting that at least one month's averages below 0 °C. The n is used to denote a climate characterized by frequent fog.
+BWh = Hot desert climate
+BWk = Cold desert climate
+BWn = Desert climate with frequent fog
+BSh = Hot semi-arid climate
+BSk = Cold semi-arid climate
+BSn = Semi-arid climate with frequent fog
+Group C: Temperate (mesothermal) climates
+This type of climate has the coldest month averaging between 0 °C (32 °F) and 18 °C (64.4 °F) and at least one month averaging above 10 °C (50 °F).
+Cfa = Temperate rainy climate; coldest month averaging above −3 °C (27 °F), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled). No dry months in the summer.
+Cfb = Temperate oceanic climate; coldest month averaging above 0 °C (32 °F), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Cfc = Subpolar oceanic climate; coldest month averaging above 0 °C (32 °F) and 1–3 months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Cwa = Monsoon-influenced humid subtropical climate; coldest month averaging above 0 °C (32 °F), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Cwb = Subtropical highland climate or Monsoon-influenced temperate oceanic climate; coldest month averaging above 0 °C (32 °F), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (an alternative definition is 70% or more of average annual precipitation received in the warmest six months).
+Cwc = Cold subtropical highland climate or Monsoon-influenced subpolar oceanic climate; coldest month averaging above 0 °C (32 °F) and 1–3 months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Csa = Hot-summer Mediterranean climate; coldest month averaging above 0 °C (32 °F), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Csb = Warm-summer Mediterranean climate; coldest month averaging above 0 °C (32 °F), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Csc = Cool-summer Mediterranean climate; coldest month averaging above 0 °C (32 °F) and 1–3 months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Group D: Continental (microthermal) climates
+This type of climate has at least one month averaging below −3 °C (27 °F) and at least one month averaging above 10 °C (50 °F).
+Dfa = Hot-summer humid continental climate; coldest month averaging below −3 °C (27 °F), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Dfb = Warm-summer humid continental climate; coldest month averaging below −3 °C (27 °F), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Dfc = Subarctic climate; coldest month averaging below −3 °C (27 °F) and 1–3 months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Dfd = Extremely cold subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and 1–3 months averaging above 10 °C (50 °F). No significant precipitation difference between seasons (neither abovementioned set of conditions fulfilled).
+Dwa = Monsoon-influenced hot-summer humid continental climate; coldest month averaging below 0 °C (32 °F), at least one month's average temperature above 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Dwb = Monsoon-influenced warm-summer humid continental climate; coldest month averaging below 0 °C (32 °F), all months with average temperatures below 22 °C (71.6 °F), and at least four months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Dwc = Monsoon-influenced subarctic climate; coldest month averaging below 0 °C (32 °F) and 1–3 months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Dwd = Monsoon-influenced extremely cold subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and 1–3 months averaging above 10 °C (50 °F). At least ten times as much rain in the wettest month of summer as in the driest month of winter (alternative definition is 70% or more of average annual precipitation is received in the warmest six months).
+Dsa = Mediterranean-influenced hot-summer humid continental climate; coldest month averaging below 0 °C (32 °F), average temperature of the warmest month above 22 °C (71.6 °F) and at least four months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Dsb = Mediterranean-influenced warm-summer humid continental climate; coldest month averaging below 0 °C (32 °F), average temperature of the warmest month below 22 °C (71.6 °F) and at least four months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Dsc = subarctic climate; coldest month averaging below 0 °C (32 °F) and 1–3 months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Dsd = extremely cold, subarctic climate; coldest month averaging below −38 °C (−36.4 °F) and 1–3 months averaging above 10 °C (50 °F). At least three times as much precipitation in the wettest month of winter as in the driest month of summer, and driest month of summer receives less than 30 mm (1.2 in).
+Group E: Polar and alpine (montane) climates
+This type of climate has every month of the year with an average temperature below 10 °C (50 °F).
+ET = Tundra climate; average temperature of warmest month between 0 °C (32 °F) and 10 °C (50 °F).
+EF = Ice cap climate; eternal winter, with all 12 months of the year with average temperatures below 0 °C (32 °F).
+
+
+== Scheme ==
+
+
+=== Group A: Tropical/megathermal climates ===
+Tropical climates are characterized by constant high temperatures (at sea level and low elevations); all 12 months of the year have average temperatures of 18 °C (64.4 °F) or higher. They are subdivided as follows:
+
+
+==== Tropical rainforest climate ====
+
+All 12 months have average precipitation of at least 60 mm (2.4 in). These climates usually occur within 10° latitude of the equator. This climate is dominated by the doldrums low-pressure system all year round, so has no natural seasons in terms of thermal and moisture changes.
+Examples
+
+Some of the places with this climate are indeed uniformly and monotonously wet throughout the year (e.g., the northwest Pacific coast of South and Central America, from Ecuador to Costa Rica; see, for instance, Andagoya, Colombia), but in many cases, the period of higher sun and longer days is distinctly wettest (as at Palembang, Indonesia) or the time of lower sun and shorter days may have more rain (as at Sitiawan, Malaysia).
+(Note. The term aseasonal refers to the lack in the tropical zone of large differences in daylight hours and mean monthly (or daily) temperature throughout the year. Annual cyclic changes occur in the tropics, but not as predictably as those in the temperate zone, albeit unrelated to temperature, but to water availability whether as rain, mist, soil, or ground water. Plant response (e. g., phenology), animal (feeding, migration, reproduction, etc.), and human activities (plant sowing, harvesting, hunting, fishing, etc.) are tuned to this 'seasonality'. Indeed, in tropical South America and Central America, the 'rainy season' (and the 'high water season') is called invierno or inverno, though it could occur in the Northern Hemisphere summer; likewise, the 'dry season' (and 'low water season') is called verano or verão, and can occur in the Northern Hemisphere winter).
+
+
+==== Tropical monsoon climate ====
+
+This type of climate results from the monsoon winds which change direction according to the seasons. This climate has a driest month (which nearly always occurs at or soon after the "winter" solstice for that side of the equator) with rainfall less than 60 mm, but more than 1/25 the total annual precipitation.
+Examples
+
+
+==== Tropical wet and dry or savanna climate ====
+
+Aw climates have a pronounced dry season, with the driest month having precipitation less than 60 mm and less than 1/25 of the total annual precipitation.
+Examples
+
+Most places that have this climate are found at the outer margins of the tropical zone from the low teens to the mid-20s latitudes, but occasionally an inner-tropical location (e.g., San Marcos, Antioquia, Colombia) also qualifies. Actually, the Caribbean coast, eastward from the Gulf of Urabá on the Colombia–Panamá border to the Orinoco River delta, on the Atlantic Ocean (about 4,000 km), have long dry periods (the extreme is the BSh climate (see below), characterised by very low, unreliable precipitation, present, for instance, in extensive areas in the Guajira, and Coro, western Venezuela, the northernmost peninsulas in South America, which receive <300 mm total annual precipitation, practically all in two or three months).
+This condition extends to the Lesser Antilles and Greater Antilles forming the circum-Caribbean dry belt. The length and severity of the dry season diminishes inland (southward); at the latitude of the Amazon River—which flows eastward, just south of the equatorial line—the climate is Af. East from the Andes, between the dry, arid Caribbean and the ever-wet Amazon are the Orinoco River's llanos or savannas, from where this climate takes its name.
+Sometimes As is used in place of Aw if the dry season occurs during the time of higher sun and longer days. This is the case in parts of Hawaii, northwestern Dominican Republic, East Africa, and the Brazilian Northeastern Coast. In most places that have tropical wet and dry climates, however, the dry season occurs during the time of lower sun and shorter days because of rain shadow effects during the 'high-sun' part of the year.
+Examples
+Monte Cristi, Dominican Republic (As)
+Recife, Brazil (As)
+Natal, Brazil (As)
+Trincomalee, Sri Lanka (As)
+Mombasa, Kenya (As)
+
+
+=== Group B: Dry (desert and semi-arid) climates ===
+
+These climates are characterized by actual precipitation less than a threshold value set equal to the potential evapotranspiration. The threshold value (in millimeters) is determined as:
+Multiply the average annual temperature in °C by 20, then add (a) 280 if 70% or more of the total precipitation is in the high-sun half of the year (April through September in the Northern Hemisphere, or October through March in the Southern), or (b) 140 if 30%–70% of the total precipitation is received during the applicable period, or (c) 0 if less than 30% of the total precipitation is so received.
+According to the modified Köppen classification system used by modern climatologists, total precipitation in the warmest six months of the year is taken as reference instead of the total precipitation in the high-sun half of the year.
+If the annual precipitation is less than 50% of this threshold, the classification is BW (arid: desert climate); if it is in the range of 50%–100% of the threshold, the classification is BS (semi-arid: steppe climate).
+A third letter can be included to indicate temperature. Originally, h signified low-latitude climate (average annual temperature above 18 °C) while k signified middle-latitude climate (average annual temperature below 18 °C), but the more common practice today, especially in the United States, is to use h to mean the coldest month has an average temperature above 0 °C (32 °F), with k denoting that at least one month averages below 0 °C.
+Desert areas situated along the west coasts of continents at tropical or near-tropical locations are characterized by cooler temperatures than encountered elsewhere at comparable latitudes (due to the nearby presence of cold ocean currents) and frequent fog and low clouds, despite the fact that these places rank among the driest on earth in terms of actual precipitation received. This climate is sometimes labelled BWn. The BSn category can be found in foggy coastal steppes.
+Desert climate examples
+
+Semi-arid examples
+
+On occasion, a fourth letter is added to indicate if either the winter or summer half of the year is "wetter" than the other half. To qualify, the wettest month must have at least 60 mm (2.4 in) of average precipitation if all 12 months are above 18 °C (64 °F), or 30 mm (1.2 in) if not; plus at least 70% of the total precipitation must be in the same half of the year as the wettest month — but the letter used indicates when the 'dry' season occurs, not the 'wet' one. This would result in Khartoum, Sudan, being reckoned as BWhw; Niamey, Niger, as BShw; Alexandria, Egypt, as BWhs; Asbi'ah, Libya, as BShs; Ömnögovi Province, Mongolia, as BWkw; and Xining, Qinghai, China, as BSkw (BWks and BSks do not exist if 0 °C in the coldest month is recognized as the h/k boundary.) If the standards for neither w nor s are met, no fourth letter is added.
+
+
+=== Group C: Temperate/mesothermal climates ===
+
+In the Koppen climate system, temperate climates are defined as having an average temperature above -3 C (26.6 F) (or 0 °C in some versions, as noted previously) in their coldest month but below 18 C (64.4 F). The average temperature of -3 C roughly coincides with the equatorward limit of frozen ground and snowcover lasting for a month or more.
+The second letter indicates the precipitation pattern—w indicates dry winters (driest winter month average precipitation less than one-tenth wettest summer month average precipitation. s indicates at least three times as much rain in the wettest month of winter as in the driest month of summer. f means significant precipitation in all seasons (neither above-mentioned set of conditions fulfilled).
+The third letter indicates the degree of summer heat—a indicates warmest month average temperature above 22 °C (72 °F) while b indicates warmest month averaging below 22 °C.
+
+
+==== Mediterranean climates ====
+
+These climates usually occur on the western sides of continents between the latitudes of 30° and 45°. These climates are in the polar front region in winter, and thus have moderate temperatures and changeable, rainy weather. Summers are hot and dry, due to the domination of the subtropical high pressure systems, except in the immediate coastal areas, where summers are milder due to the nearby presence of cold ocean currents that may bring fog but prevent rain.
+Examples
+
+Dry-summer sometimes extends to additional areas not typically associated with a typical Mediterranean climate, as their warmest month mean doesn't reach 22 °C (71.6 °F), they are classified as (Csb). Some of these areas would border the Oceanic climate (Cfb), except their dry-summer patterns meet Köppen's Cs minimum thresholds.
+Examples
+Santiago, Chile (Csb bordering BSk)
+A Coruña, Spain (Csb)
+Essaouira, Morocco (Csb)
+Porto, Portugal (Csb)
+Potenza, Italy (Csb)
+San Francisco, California, United States (Csb)
+Santa Barbara, California, United States (Csb)
+Seattle, Washington, United States (Csb)
+Victoria, British Columbia, Canada (Csb)
+Cape Town, South Africa (Csb)
+Albany, Western Australia, Australia (Csb)
+Cold-summer Mediterranean climates (Csc) exist in high-elevation areas adjacent to coastal Csb climate areas, where the strong maritime influence prevents the average winter monthly temperature from dropping below 0 °C. This climate is rare and is predominantly found in climate fringes and isolated areas of the Cascades and Andes Mountains, as the dry-summer climate extends further poleward in the Americas than elsewhere. Rare instances of this climate can be found in some coastal locations in the North Atlantic and at high altitudes in Hawaii.
+Examples
+Balmaceda, Chile (Csc)
+Haleakalā Summit, Hawaii, United States (Csc)
+
+
+==== Humid subtropical climates ====
+
+These climates usually occur on the eastern coasts and eastern sides of continents, usually in the high 20s and 30s latitudes. Unlike the dry summer Mediterranean climates, humid subtropical climates have a warm and wet flow from the tropics that creates warm and moist conditions in the summer months. As such, summer (not winter as is the case in Mediterranean climates) is often the wettest season.
+The flow out of the subtropical highs and the summer monsoon creates a southerly flow from the tropics that brings warm and moist air to the lower east sides of continents. This flow is often what brings the frequent but short-lived summer thundershowers so typical of the more southerly subtropical climates like the far southern United States, southern China and Japan.
+Examples
+
+Subtropical-Dry Winter (Cwa) is monsoonal influenced, having the classic dry winter/wet summer pattern associated with tropical monsoonal climates.
+Examples
+
+
+==== Oceanic climate ====
+
+Cfb climates usually occur in the higher middle latitudes on the western sides of continents between the latitudes of 40° and 60°; they are typically situated immediately poleward of the Mediterranean climates, although in Australia and extreme southern Africa this climate is found immediately poleward of temperate climates, and at a somewhat lower latitude. In western Europe, this climate occurs in coastal areas up to 63°N in Norway.
+These climates are dominated all year round by the polar front, leading to changeable, often overcast weather. Summers are cool due to cool ocean currents, but winters are milder than other climates in similar latitudes, but usually very cloudy. Cfb climates are also encountered at high elevations in certain subtropical and tropical areas, where the climate would be that of a subtropical/tropical rain forest if not for the altitude. These climates are called "highlands".
+Examples
+
+Subpolar oceanic climates (Cfc) occur poleward of or at higher elevations than the maritime temperate climates, and are mostly confined either to narrow coastal strips on the western poleward margins of the continents, or, especially in the Northern Hemisphere, to islands off such coasts. They occur in both hemispheres, most often at latitudes from 60° north and south to 70° north and south.
+Examples
+Reykjavík, Iceland (Cfc, borders on Dfc)
+Tórshavn, Faroe Islands (Cfc)
+Røst, Norway (Cfc)
+Mount Read, Tasmania, Australia (Cfc, borders on ET)
+Auckland Islands, New Zealand (Cfc)
+Punta Arenas, Chile (Cfc)
+Unalaska, Alaska, United States (Cfc)
+
+
+==== Highland climates ====
+Dry-winter highland climate (Cwb) is a type of climate mainly found in highlands inside the tropics of Mexico, Peru, Bolivia, Madagascar, Zambia, Zimbabwe and South Africa or central Argentina and areas outside of the tropics (such as in the subtropics). Winters are noticeable and dry, and summers can be very rainy. In the tropics, the rainy season is provoked by the tropical air masses and the dry winters by subtropical high pressure.
+Examples
+Da Lat, Vietnam (Cwb)
+Shimla, India (Cwb)
+Thimphu, Bhutan (Cwb)
+Mokhotlong, Lesotho (Cwb)
+Mbabane, Swaziland (Cwb)
+Nairobi, Kenya (Cwb)
+Baguio, Philippines (Cwb)
+Kunming, China (Cwb)
+Mexico City, Mexico (Cwb)
+Addis Ababa, Ethiopia (Cwb)
+Harare, Zimbabwe (Cwb)
+Antananarivo, Madagascar (Cwb)
+Johannesburg, South Africa (Cwb)
+Cusco, Peru (Cwb)
+La Paz, Bolivia (Cwb bordering on Cwc)
+Salta, Argentina (Cwb)
+Highland climates with uniform rainfall (Cfb) are a type of oceanic climate mainly found in highlands of Australia, such as in or around the Great Dividing Range in the states of New South Wales and Victoria, and also sparsely in other continents, such as in South America, among others. Unlike a typical Cwb climate, they tend to have rainfall spread evenly throughout the year. They have characteristics of both the Cfb and Cfa climates. Though unlike these climates, they have a high diurnal temperature variation and low humidity, owing to their inland location and relatively high elevation.
+Examples
+Quito, Pichincha Province, Ecuador (Cfb)
+Bogotá, Cundinamarca, Colombia (Cfb)
+Curitiba, Paraná, Brazil (Cfb)
+São Joaquim, Santa Catarina, Brazil (Cfb)
+Campos do Jordão, São Paulo, Brazil (Cfb)
+Boone, North Carolina, United States (Cfb)
+Constanza, Dominican Republic (Cfb)
+Katoomba, New South Wales, Australia (Cfb)
+Bathurst, New South Wales, Australia (Cfb)
+Cameron Highlands, Malaysia (Cfb)
+Nuwara Eliya, Sri Lanka (Cfb)
+Mendi, Papua New Guinea (Cfb)
+Mount Hagen, Papua New Guinea (Cfb)
+
+
+=== Group D: Continental/microthermal climates ===
+
+These climates have an average temperature above 10 °C (50 °F) in their warmest months, and a coldest month average below −3 °C (or 0 °C in some versions, as noted previously). These usually occur in the interiors of continents and on their upper east coasts, normally north of 40°N. In the Southern Hemisphere, group D climates are extremely rare due to the smaller land masses in the middle latitudes and the almost complete absence of land at 40–60°S, existing only in some highland locations.
+
+
+==== Hot summer continental climates ====
+
+Dfa climates usually occur in the high 30s and low 40s latitudes, with a qualifying average temperature in the warmest month of greater than 22 °C/72 °F. In Europe, these climates tend to be much drier than in North America. In eastern Asia, Dwa climates extend further south due to the influence of the Siberian high pressure system, which also causes winters there to be dry, and summers can be very wet because of monsoon circulation. Dsa exists at higher elevations adjacent to areas with hot summer Mediterranean (Csa) climates.
+Examples
+Almaty, Kazakhstan (Dfa)
+Oral, Kazakhstan (Dfa)
+Aomori, Aomori Prefecture, Japan (Dfa)
+Nagano, Nagano Prefecture, Japan (Dfa)
+Sapporo, Japan (Dfa, bordering on Dfb)
+Chicago, Illinois, United States (Dfa)
+Boston, Massachusetts, United States (Dfa)
+Minneapolis, Minnesota, United States (Dfa)
+Toronto, Ontario, Canada (Dfa, bordering on Dfb)
+Montreal, Quebec, Canada (Dfa, bordering on Dfb)
+Windsor, Ontario, Canada (Dfa)
+Bucharest, Romania (Dfa)
+Rostov-on-Don, Russia (Dfa)
+Volgograd, Russia (Dfa)
+Pyongyang, North Korea (Dwa)
+Seoul, South Korea (Dwa)
+Beijing, China (Dwa)
+Harbin, China (Dwa)
+Tianjin, China (Dwa)
+Dsa exists only at higher elevations adjacent to areas with hot summer Mediterranean (Csa) climates.
+Examples
+Bishkek, Kyrgyzstan (Dsa)
+Saqqez, Kurdistan Province, Iran (Dsa)
+Arak, Markazi Province, Iran (Dsa)
+Hakkâri, Turkey (Dsa)
+Muş, Turkey (Dsa)
+Cambridge, Idaho, United States (Dsa)
+
+
+==== Warm summer continental or hemiboreal climates ====
+
+Dfb and Dwb climates are immediately poleward of hot summer continental climates, generally in the high 40s and low 50s latitudes in North America and Asia, and also extending to higher latitudes in central and eastern Europe and Russia, between the maritime temperate and continental subarctic climates, where it extends up to 65 degrees latitude in places.
+Examples
+
+Dsb arises from the same scenario as Dsa, but at even higher altitudes or latitudes, and chiefly in North America, since the Mediterranean climates extend further poleward than in Eurasia.
+Examples
+Sivas, Turkey (Dsb)
+Roghun, Tajikistan (Dsb)
+Dras, India (Dsb)
+Flagstaff, Arizona, United States (Dsb)
+South Lake Tahoe, California, United States (Dsb)
+Wallace, Idaho, United States (Dsb)
+
+
+==== Subarctic or boreal climates ====
+
+Dfc, Dsc and Dwc climates occur poleward of the other group D climates, generally in the 50 and low 60 degrees of North latitude. In some places, it extends northward to beyond 70°N latitude.
+Examples:
+
+Places with this climate (Dfd,Dwd,Dsd) have severe winters, with the temperature in their coldest month lower than −38 °C. These climates occur only in eastern Siberia. The names of some of the places with this climate have become veritable synonyms for extreme, severe winter cold.
+Examples
+Yakutsk, Sakha Republic, Russia (Dfd)
+Verkhoyansk, Sakha Republic, Russia (Dfd)
+Amga, Sakha Republic, Russia (Dfd)
+Oymyakon, Sakha Republic, Russia (Dwd)
+Seymchan, Magadan Oblast, Russia (Dwd)
+
+
+=== Group E: Polar climates ===
+In the Köppen climate system, polar climates are defined as the warmest temperature of any month is below 10 °C (50 °F). Polar climates are further divided into two types, tundra climates and icecap climates:
+Tundra climate (ET and ETf): Warmest month has an average temperature between 0 and 10 °C. These climates occur on the northern edges of the North American and Eurasian land masses (generally north of 70 °N although it may be found farther south depending on local conditions), and on nearby islands. ET climates are also found on some islands near the Antarctic Convergence, and at high elevations outside the polar regions, above the tree line.
+Examples
+Mount Rainier, Washington, United States (ET)
+Macquarie Island, Australia (ET)
+Crozet Islands (ET)
+Campbell Island, New Zealand (ET)
+Kerguelen Islands (ET)
+Prince Edwards Islands (ET)
+Stanley, Falkland Islands, United Kingdom (ET), borders subpolar oceanic (Cfc)
+Ushuaia, Argentina (ET), (borders on Cfc)
+Mount Wellington, Tasmania, Australia (ET)
+Nagqu, Tibet, China (ET)
+Letseng diamond mine, Lesotho (ET, bordering on Cfc and Dfc)
+La Rinconada, Peru (ET)
+Cairn Gorm, United Kingdom (ET)
+
+These climates are a colder and more continental variants of tundra. They would have characteristics of the ice cap climate, but still manage to see monthly average temperatures above 0 °C (32 °F):
+Examples
+Nanortalik, Greenland (ETf)
+Mount Fuji, Japan (ETf)
+Murghab, Tajikistan (ETf)
+Mount Washington, New Hampshire, United States (ETf)
+Zugspitze, Bavaria, Germany (ETf)
+Eureka, Nunavut, Canada (ETf)
+Iqaluit, Nunavut, Canada (ETf)
+Inukjuak, Quebec, Canada (ETf)
+Nuuk, Greenland (ETf, bordering on Dfc)
+Svalbard, Norway (ETf)
+Mys Shmidta, Russia (ETf)
+Dikson Island, Russia (ETf)
+Nord, Greenland (ETf)
+Esperanza Base, Antarctica (ETf)
+Ice cap climate (EF): This climate is dominant in Antarctica and inner Greenland, but also occurs at extremely high altitudes on mountains, above even tundra. Monthly average temperatures never exceed 0 °C (32 °F).
+Examples
+Mount Ararat, Turkey (EF)
+Grossglockner, Carinthia, Austria (EF)
+Mount Everest, China/Nepal (EF)
+Summit Camp, Greenland (EF)
+Scott Base, Antarctica (EF)
+Vostok Station, Antarctica (EF), location of the lowest air temperature ever recorded on Earth.
+McMurdo Station, Antarctica (EF)
+Byrd Station, Antarctica (EF)
+Occasionally, a third, lower-case letter is added to ET climates (distinguishing between ETf, ETs, and ETw), if either the summer or winter is clearly drier than the other half of the year. When the option to include this letter is exercised, the same standards that are used for Groups C and D apply, with the additional requirement that the wettest month must have an average of at least 30 mm precipitation (Group E climates can be as dry or even drier than Group B climates based on actual precipitation received, but their rate of evaporation is much lower). Seasonal precipitation letters are almost never attached to EF climates, mainly due to the difficulty in distinguishing between falling and blowing snow, as snow is the sole source of moisture in these climates.
+
+
+== Ecological significance ==
+The Köppen climate classification is based on the empirical relationship between climate and vegetation. This classification provides an efficient way to describe climatic conditions defined by temperature and precipitation and their seasonality with a single metric. Because climatic conditions identified by the Köppen classification are ecologically relevant, it has been widely used to map geographic distribution of long term climate and associated ecosystem conditions.
+Over the recent years, there has been an increasing interest in using the classification to identify changes in climate and potential changes in vegetation over time. The most important ecological significance of the Köppen climate classification is that it helps to predict the dominant vegetation type based on the climatic data and vice versa.
+In 2015, a Nanjing University paper published in Nature analyzing climate classifications found that between 1950 and 2010, approximately 5.7% of all land area worldwide had moved from wetter and colder classifications to drier and hotter classifications. The authors also found that the change "cannot be explained as natural variations but are driven by anthropogenic factors."
+
+
+== Trewartha climate classification scheme ==
+
+The Trewartha climate classification is a climate classification system published by American geographer Glenn Thomas Trewartha in 1966, and updated in 1980. It is a modified version of the 1899 Köppen system, created to answer some of the deficiencies of the Köppen system. The Trewartha system attempts to redefine the middle latitudes to be closer to vegetation zoning and genetic climate systems. It was considered a more true or "real world" reflection of the global climate.
+For example, under the standard Köppen system, in the United States, western Washington and Oregon are classed into the same climate zone as southern California, even though the two regions have strikingly different weather and vegetation. Under the old Köppen system cool oceanic climates like that of London or Seattle were classed in the same zone as hot subtropical cities like Savannah, Georgia or Brisbane, Australia. In the United States, locations like Colorado and Iowa which have long, severe winter climates where plants are completely dormant, were classed into the same climate zone as Louisiana or northern Florida which have mild winters and a green winter landscape.
+
+
+== Other Köppen climate maps ==
+All maps use the ≥0 °C definition for temperate climates and the 18 °C annual mean temperature threshold to distinguish between hot and cold dry climates.
+
+
+== See also ==
+Holdridge life zones climate classification by three dimensions: precipitation, humidity, and potential evapotranspiration ratio
+Savory brittleness scale
+Hardiness zone
+
+
+== References ==
+
+
+== External links ==
+World Map of the Köppen–Geiger climate classification for the period 1951–2000
+Global climate maps, using Köppen classification (FAO, 1999)
+
+
+=== Climate records ===
+IPCC Data Distribution Center

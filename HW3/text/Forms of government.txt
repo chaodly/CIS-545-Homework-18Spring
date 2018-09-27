@@ -1,0 +1,202 @@
+A government is the system by which a state or community is controlled. In the Commonwealth of Nations, the word government is also used more narrowly to refer to the collective group of people that exercises executive authority in a state. This usage is analogous to what is called an "administration" in American English. Furthermore, especially in American English, the concepts of the state and the government may be used synonymously to refer to the person or group of people exercising authority over a politically organized territory. Finally, government is also sometimes used in English as a synonym for governance.
+In the case of its broad associative definition, government normally consists of legislators, administrators, and arbitrators. Government is the means by which state policy is enforced, as well as the mechanism for determining the policy of the state. A form of government, or form of state governance, refers to the set of political systems and institutions that make up the organisation of a specific government.
+Government of any kind currently affects every human activity in many important ways. For this reason, political scientists generally argue that government should not be studied by itself; but should be studied along with anthropology, economics, environmentalism, history, philosophy, science, and sociology.
+
+
+== Political science ==
+
+
+=== Classifying government ===
+In political science, it has long been a goal to create a typology or taxonomy of polities, as typologies of political systems are not obvious. It is especially important in the political science fields of comparative politics and international relations.
+On the surface, identifying a form of government appears to be simple, as all governments have an official form. The United States is a constitutional republic, while the former Soviet Union was a socialist republic. However self-identification is not objective, and as Kopstein and Lichbach argue, defining regimes can be tricky. For example, elections are a defining characteristic of an electoral democracy, but in practice elections in the former Soviet Union were not "free and fair" and took place in a one-party state. Voltaire argued that "the Holy Roman Empire is neither Holy, nor Roman, nor an Empire". Many governments that officially call themselves a "democratic republic" are not democratic, nor a republic; they are usually a dictatorship de facto. Communist dictatorships have been especially prone to use this term. For example, the official name of North Vietnam was "The Democratic Republic of Vietnam." China uses a variant, "The People's Republic of China." Thus in many practical classifications it would not be considered democratic.
+Identifying a form of government is also difficult because a large number of political systems originate as socio-economic movements and are then carried into governments by specific parties naming themselves after those movements; all with competing political-ideologies. Experience with those movements in power, and the strong ties they may have to particular forms of government, can cause them to be considered as forms of government in themselves.
+Other complications include general non-consensus or deliberate "distortion or bias" of reasonable technical definitions to political ideologies and associated forms of governing, due to the nature of politics in the modern era. For example: The meaning of "conservatism" in the United States has little in common with the way the word's definition is used elsewhere. As Ribuffo notes, "what Americans now call conservatism much of the world calls liberalism or neoliberalism". Since the 1950s conservatism in the United States has been chiefly associated with the Republican Party. However, during the era of segregation many Southern Democrats were conservatives, and they played a key role in the Conservative Coalition that controlled Congress from 1937 to 1963.
+Researchers from Halmstad University developed a dataset called MaxRange designed to define the level of democracy and institutional structure (its regime-type) on a 100-graded scale where every value represents a unique regimetype. Values are sorted from 1–100 based on level of democracy and political accountability. MaxRange defines the value corresponding to all states and every month from 1789 to the present (continually updated).
+
+
+=== Social-Political ambiguity ===
+Every country in the world is ruled by a system of governance that combines at least three (or more) political and/or economic attributes. Additionally, opinions vary by individuals concerning the types and properties of governments that exist. "Shades of gray" are commonplace in any government (and its corresponding classification). Even the most liberal democracies limit rival political activity to one extent or another, whilst the most tyrannical dictatorships must organize a broad base of support, thereby creating difficulties for "pigeonholing" governments into narrow categories. Examples include the claims of the United States as being a plutocracy rather than a democracy since some American voters believe elections are being manipulated by wealthy Super PACs.
+
+
+=== The dialectical forms of government ===
+
+The Classical Greek philosopher Plato discusses five types of regimes. They are aristocracy, timocracy, oligarchy, democracy and tyranny. Plato also assigns a man to each of these regimes to illustrate what they stand for. The tyrannical man would represent tyranny for example. These five regimes progressively degenerate starting with aristocracy at the top and tyranny at the bottom.
+
+
+=== Etymology ===
+arch-, prefix derived from the Greek archon, 'rulership', which means "higher in hierarchy". The Greek word κράτος krátos, 'power', which means "right to lead" is the suffix root in words like aristocrat and democracy.
+
+
+== Forms of government by associated attributes ==
+Descriptions of governments can be based on the following attributes:
+
+
+=== By elements of where decision-making power is held ===
+
+
+==== Aristocratic attributes ====
+Societies with aristocracy attributes are traditionally controlled and organised by a small class of privileged people, with no intervention from the most part of society; this small elite is defined as sharing some common trait.
+
+
+==== Despotic attributes ====
+Societies with despotism attributes are ruled by a single entity with absolute power, whose decisions are subject to neither external legal restraints nor regular mechanisms of popular control (except perhaps for implicit threat). That entity may be an individual, as in an autocracy, or it may be a group, as in an oligarchy. The word despotism means to "rule in the fashion of despots".
+
+
+==== Monarchic attributes ====
+Countries with monarchy attributes are those where a family or group of families (rarely another type of group), called the royalty, represents national identity, with power traditionally assigned to one of its individuals, called the monarch, who mostly rule kingdoms. The actual role of the monarch and other members of royalty varies from purely symbolical (crowned republic) to partial and restricted (constitutional monarchy) to completely despotic (absolute monarchy). Traditionally and in most cases, the post of the monarch is inherited, but there are also elective monarchies where the monarch is elected.
+
+
+==== Pejorative attributes ====
+Regardless of the form of government, the actual governance may be influenced by sectors with political power which are not part of the formal government. Certain actions of the governors, such as corruption, demagoguery, or fear mongering, may disrupt the intended way of working of the government if they are widespread enough.
+
+
+=== By elements of who elects the empowered ===
+
+
+==== Authoritarian attributes ====
+
+
+==== Democratic attributes ====
+
+Governments with democracy attributes are most common in the Western world and in some countries of the east. In democracies, large proportions of the population may vote, either to make decisions or to choose representatives to make decisions. Commonly significant in democracies are political parties, which are groups of people with similar ideas about how a country or region should be governed. Different political parties have different ideas about how the government should handle different problems.
+
+
+==== Oligarchic attributes ====
+Governments with oligarchic attributes are ruled by a small group of segregated, powerful and/or influential people, who usually share similar interests and/or family relations. These people may spread power and elect candidates equally or not equally. An oligarchy is different from a true democracy because very few people are given the chance to change things. An oligarchy does not have to be hereditary or monarchic. An oligarchy does not have one clear ruler, but several rulers.
+Some historical examples of oligarchy are the former Union of Soviet Socialist Republics. Some critics of representative democracy think of the United States as an oligarchy. The Athenian democracy used sortition to elect candidates, almost always male, Greek, educated citizens holding a minimum of land, wealth and status.
+
+
+==== Other attributes ====
+
+
+=== By elements of how power distribution is structured ===
+
+
+==== Republican attributes ====
+A republic is a form of government in which the country is considered a "public matter" (Latin: res publica), not the private concern or property of the rulers, and where offices of states are subsequently directly or indirectly elected or appointed rather than inherited.
+
+
+==== Federalism attributes ====
+Federalism is a political concept in which a group of members are bound together by covenant (Latin: foedus, covenant) with a governing representative head. The term "federalism" is also used to describe a system of government in which sovereignty is constitutionally divided between a central governing authority and constituent political units (such as states or provinces). Federalism is a system based upon democratic rules and institutions in which the power to govern is shared between national and provincial/state governments, creating what is often called a federation. Proponents are often called federalists.
+
+
+==== Other power structure attributes ====
+
+
+== Forms of government by other characteristic attributes ==
+
+
+=== By socio-economic system attributes ===
+
+Historically, most political systems originated as socioeconomic ideologies; experience with those movements in power, and the strong ties they may have to particular forms of government, can cause them to be considered as forms of government in themselves.
+
+
+=== By significant constitutional attributes ===
+Certain major characteristics are defining of certain types; others are historically associated with certain types of government.
+Rule according to higher law (unwritten ethical principles) vs. written constitutionalism
+Separation of church and state or free church vs. state religion
+Civilian control of the military vs. stratocracy
+Totalitarianism or authoritarianism vs. libertarianism
+Police state
+
+Majority rule or parliamentary sovereignty vs. constitution or bill of rights with separation of powers and supermajority rules to prevent tyranny of the majority and protect minority rights
+Androcracy (patriarchy) or gynarchy (matriarchy) vs. gender quotas, gender equality provision, or silence on the matter
+
+
+=== By approach to regional autonomy ===
+This list focuses on differing approaches that political systems take to the distribution of sovereignty, and the autonomy of regions within the state.
+Sovereignty located exclusively at the centre of political jurisdiction.
+Empire
+Unitary state
+
+Sovereignty located at the centre and in peripheral areas.
+Hegemony
+Federation and federal republic
+Confederation
+Federal monarchy
+
+Diverging degrees of sovereignty.
+Alliance
+Asymmetrical federalism
+Federacy
+Associated state
+Corpus separatum
+Colony
+Crown colony
+Chartered company
+Dependent territory
+Occupied territory
+Occupied zone
+Mandate
+Exclusive Mandate
+Protectorate
+Military Frontier
+Neutral Zone
+Colonial dependency
+Thalassocracy
+Unrecognized state
+Government in exile
+Provisional government
+States with limited recognition
+Territoral disputes
+Non-Self-Governing Territories
+League of Nations
+League
+Commonwealth
+Decentralisation and devolution (powers redistributed from central to regional or local governments)
+
+
+=== Theoretical and speculative attributes ===
+These currently have no citable real-world examples outside of fiction.
+
+
+== Maps ==
+
+
+== See also ==
+Central government
+Civics
+Comparative government
+Constitutional economics
+Deep state
+Digital democracy
+E-Government
+History of politics
+Legal rights
+List of countries by system of government
+List of European Union member states by political system
+Ministry
+Political economy
+Political history
+Politics
+Prime ministerial government
+State (polity)
+Voting system
+World government
+
+
+== References ==
+
+
+== Bibliography ==
+American Heritage Dictionary of the English Language (4th ed.). 222 Berkeley Street, Boston, MA 02116: Houghton Mifflin Company. ISBN 0-395-82517-2
+
+
+== Further reading ==
+Krader, Lawrence (1968). Formation of the State, in Foundations of Modern Anthropology Series. Englewood Cliffs, N.J.: Prentice-Hall. x, 118 p.
+Bruce Bueno de Mesquita and Alastair Smith (2011). The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics. Random House. p. 272. ISBN 9781610390446. OCLC 701015473. 
+Friedrich, Carl J.; Brzezinski, Zbigniew K. (1965). Totalitarian Dictatorship and Autocracy (2nd ed.). Praeger. 
+Bueno de Mesquita, Bruce; Smith, Alastair; Siverson, Randolph M.; Morrow, James D. (2003). The Logic of Political Survival. The MIT Press. ISBN 0-262-63315-9. 
+William J. Dobson (2013). The Dictator's Learning Curve: Inside the Global Battle for Democracy. Anchor. ISBN 978-0307477552. 
+
+
+== External links ==
+The Phrontistery Word List: Types of Government and Leadership
+What Are the Different Types of Governments?
+Types of Governments from Historical Atlas of the 20th Century
+Other classifications examples from Historical Atlas of the 20th Century
+World Affairs: Types of Government
+Regime Types
+CBBC Newsround: types of government
+Bill Moyers: Plutocracy Rising
+Phobiocracy by Chris Claypoole

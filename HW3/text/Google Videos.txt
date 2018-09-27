@@ -1,0 +1,88 @@
+Google Videos (originally Google Video) is a video search engine from Google. It was formerly a free video-sharing website and allowed selected videos to be remotely embedded on other websites and provided the necessary HTML code alongside the media, similar to YouTube. This allowed websites to host lots of video remotely without running into bandwidth or storage-capacity issues.
+The service was launched on January 25, 2005. On October 9, 2006, Google bought former competitor YouTube. Google announced on June 13, 2007, that the Google Videos search results would begin to include videos discovered by their web crawlers on other hosting services, in YouTube and user uploads. Thereafter, search result links opened a frameset with a Google Videos header at the top, and the original player page below it. In 2009, Google discontinued the ability to upload videos to Google Video.
+On April 15, 2011, Google announced via email that after April 29 they would no longer allow playback of content hosted on their service, but reversed the decision one week later to provide users with greater support for migration to YouTube. Google Video was shut down on August 20, 2012. The remaining Google Videos content was automatically moved to YouTube.
+
+
+== Video content ==
+Google Videos was geared towards providing a large archive of freely searchable videos. Besides amateur media, Internet videos, viral ads, and movie trailers, the service also aimed to distribute commercial professional media, such as televised content and movies.
+A number of educational discourses by Google employees were recorded and made available for viewing via Google Videos. The lectures were done mainly at the employees' former universities. The topics covered Google technologies and software engineering but also include other pioneering efforts by major players in the software engineering field.
+On January 6, 2009, the Google Video Store launched to sell downloads through Google Videos. The service launched with independent films Aardvark'd: 12 Weeks with Geeks, and Waterborne, as well as content from media partners CBS, the NBA, The Charlie Rose Show, and Sony BMG. Initially, the content of a number of broadcasting companies (such as ABC, NBC, CNN) was available as free streaming content or stills with closed captioning. In addition, the U.S. National Archive used Google Videos to make historic films available online, but this project was later discontinued.
+Google Videos also searched other non-affiliated video sites from web crawls. Sites searched by Google Videos in addition to their own videos and YouTube included GoFish, ExposureRoom, Vimeo, Myspace, Biku, and Yahoo! Video. Google Videos moved away from an online video archive and toward a search engine for videos, similar to their web and image searches.
+As of August 2007, the DTO/DTR (download-to-own/rent) program ended. Users who previously purchased a video from Google Videos were no longer able to view them. Credits for users were made available as values for Google Checkout and were valid for 60 days.
+
+
+== Termination of video upload service ==
+In 2009, Google ended the ability for users to upload videos to Google Videos. Videos that were already uploaded continued to be hosted. Later, other navigation features were retired, such as ability to cross-reference videos back to now-inactive user accounts, as well as selection of top videos.
+
+
+=== Uploading videos ===
+Until 2009, users were able to upload videos either through the Google Videos website (limited to 100MB per file); or alternatively through the Google Video Uploader, available for Windows, Mac OS X and Linux. Major producers with a thousand or more hours of video can apply for Google's Premium Program, which continues to allow for the uploading of videos.
+While the Video Uploader application was available as three separate downloads, the Linux version was written in Java, a cross-platform programming language, and would therefore also work on other operating systems without modifications, providing that the Java Runtime Environment (JRE) is installed. This Java executable (.jar) file was a standalone application that did not require installation. Consequently, it could be run from removable media such as USB flash drives, CD-ROMs, or network storage. This allowed users to upload video even if the computer terminal on which they were working would not allow them to install programs, such as a public library computer.
+Uploaded videos were saved as a .gvi files under the "Google Videos" folder in "My Videos" and reports of the video(s) details were logged and stored in the user account. The report sorted and listed the number of times that each of the user's videos had been viewed and downloaded within a specific time frame. These ranged from the previous day, week, month or the entire time the videos have been there. Totals were calculated and displayed and the information could be downloaded into a spreadsheet format or printed out.
+
+
+== Termination of video hosting ==
+On April 15, 2011, Google announced that they would stop hosting user-uploaded videos. The plan would make videos unavailable for public viewing in 14 days and removed from users' accounts in 28 days. On April 22, a week after the announcement, Google announced that due to feedback they would not be removing videos at this time. Instead they will start automatically migrating videos to YouTube, as well as providing easier tools for account holders to do so themselves.
+
+
+== Video distribution methods ==
+Google Videos offered both free services and commercial videos, the latter controlled with digital rights management.
+
+
+=== Website ===
+The basic way to watch the videos is through the Google Videos website, video.google.com. Each video has a unique web address in the format of http://video.google.com/videoplay?docid=<video id>, and that page contains an embedded Flash Video file which can be viewed in any Flash-enabled browser.
+Permalinks to a certain point in a video are also possible, in the format of http://video.google.com/videoplay?docid=<video id>#XXhYYmZZs (that is, with a fragment identifier containing a timestamp).
+
+
+=== Flash Video ===
+The browser automatically caches the Flash file while it plays, and it can be retrieved from the browser cache once it has fully played. There are also several tools and browser extensions to download the file. It can be then viewed in video players that can handle flash, for example VLC media player, Media Player Classic (with ffdshow installed), MPlayer or an FLV player.
+
+
+=== Google Video Player ===
+Google Video Player was another way to view Google videos; it ran on Windows and Mac OS X. The Google Video Player plays back files in Google's own Google Video File (.gvi) media format and supported playlists in "Google Video Pointer" (.gvp) format. When users downloaded to their computers, the resulting file used to be a small .gvp (pointer) file rather than a .gvi file. When run, the .gvp file would download a .gvi (movie) file to the user's default directory.
+As of August 17, 2007, Google Video Player has been discontinued and is no longer available for download from the Google Videos website. The option to download videos in GVI format has also been removed, the only format available being MP4 format.
+While early versions of Google's in-browser video player code were based on the open source VLC Media Player, the last version of Google Video Player was not based on VLC, according to its readme file. However, it did include the OpenSSL cryptographic toolkit and some libraries from the Qt widget toolkit.
+Google Videos and the Google Video Player were ultimately phased out due to Google's acquisition of YouTube.
+
+
+=== GVI format and conversion ===
+Google Video Files (.gvi), and latterly its .avi files, are modified Audio Video Interleave (.avi) files that have an extra list containing the FourCC "goog" immediately following the header. Audio Video Interleaved (also Audio Video Interleave), known by its initials AVI, is a multimedia container format introduced by Microsoft in November 1992 as part of its Video for Windows technology. The list can be removed with a hex editor to avoid playback issues with various video players. The video is encoded in MPEG-4 ASP alongside an MP3 audio stream. MPEG-4 video players can render .gvi Google Video Files without format conversion (after changing the extension from .gvi to .avi, although this method of just renaming the file extension does not work with videos purchased with DRM to inhibit unauthorized copying). Among other software VirtualDub is able to read .gvi files and allows the user to convert them into different formats of choice. There are also privately developed software solutions, such as GVideo Fix, that can convert them to .avi format without recompression. MEncoder with "-oac copy -ovc copy" as parameters also suffices.
+
+
+=== AVI and MP4 ===
+Besides GVI and Flash Video, Google provided its content through downloadable Audio Video Interleave (.avi) and MPEG-4 (.mp4) video files. Not all formats are available through the website's interface, however, depending on the user's operating system.
+Where available, Google's "save as" function for Windows/Mac produced an .avi file, while the "save as" function for iPod and PSP produced an .mp4 file.
+This .avi file was not in standard AVI format. To play the file in a popular media player such as Winamp or Windows Media Player, the file had to first be modified, using a hex editor to delete the first LIST block in the file header, which started at byte 12 (000C hex, first byte in file is byte 0) and ended at byte 63 (003F hex). Optionally, the file length (in bytes 4 to 7, little endian) should also be amended, by subtracting 52 (3F hex – 0C hex = 33 hex).
+Winamp and Windows Media Player cannot play the unmodified .avi file because the non-standard file header corrupts the file. However, Media Player Classic, MPlayer, the VLC Media Player and GOM Player will play the unmodified .avi file, and the Google .mp4 file. Media Player Classic can do so only if an MPEG-4 DirectShow Filter, such as ffdshow, is installed. Most Linux media players (including xine, Totem, the Linux version of VLC Media Player, and Kaffeine) have no problem playing Google's .avi format.
+An .mp4 video file will play in Winamp 5 if an MPEG-4/H.264 DirectShow Filter such as ffdshow and an MP4 Splitter such as Haali are installed, and the extension ;MP4 is added to the Extension List in the Winamp DirectShow decoder configuration.
+In the Spring of 2008, the option to download files in .AVI format was removed. Files were henceforth only available as Flash video or .MP4 video. The same videos, when accessed through the companion YouTube.com site, were available only in Flash video format.
+
+
+=== Third-party download services ===
+Google offers users the means to save only some of the videos on the site, mostly for copyright reasons. Their documentation goes so far as to claim that only these videos can be downloaded. However, since viewing a video requires downloading it to the computer, their software merely makes saving videos less than trivially difficult, not impossible: a number of solutions, including external software and bookmarklets, have been developed.
+
+
+== Market adoption ==
+Despite downloading being available in multiple formats, being less restrictive on video uploads, and Google being tremendously well-known, Google Videos had only a minor share from the online video market, amassing around 2.5 million videos uploaded.
+
+
+== Availability of service ==
+While initially only available in the United States, over time Google Videos had become available to users in more countries and could be accessed from many other countries, including the United Kingdom, France, Germany, Italy, Canada and Japan.
+Regardless of general availability, content providers are given the opportunity to limit access to video files to only users from certain countries of residence. However, methods of circumventing geographical filtering exist.
+
+
+== Criticisms ==
+Google Videos was criticized for its lack of organization of content and a noticeable pricing scheme.
+
+
+== See also ==
+
+Comparison of video services
+List of video hosting websites
+
+
+== References ==
+
+
+== External links ==
+Google Video

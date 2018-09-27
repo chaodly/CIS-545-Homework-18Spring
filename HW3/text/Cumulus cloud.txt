@@ -1,0 +1,85 @@
+Cumulo- means "heap" or "pile" in Latin. Cumulus clouds are often described as "puffy", "cotton-like" or "fluffy" in appearance, and have flat bases. Cumulus clouds, being low-level clouds, are generally less than 2,000 m (6,600 ft) in altitude unless they are the more vertical cumulus congestus form. Cumulus clouds may appear by themselves, in lines, or in clusters.
+Cumulus clouds are often precursors of other types of cloud, such as cumulonimbus, when influenced by weather factors such as instability, moisture, and temperature gradient. Normally, cumulus clouds produce little or no precipitation, but they can grow into the precipitation-bearing congestus or cumulonimbus clouds. Cumulus clouds can be formed from water vapor, supercooled water droplets, or ice crystals, depending upon the ambient temperature. They come in many distinct subforms, and generally cool the earth by reflecting the incoming solar radiation. Cumulus clouds are part of the larger category of free-convective cumuliform clouds, which include cumulonimbus clouds. The latter genus-type is sometimes categorized separately as cumulonimbiform due to its more complex structure that often includes a cirriform or anvil top. There are also cumuliform clouds of limited convection that comprise stratocumulus (low-étage), altocumulus (middle-étage) and cirrocumulus. (high-étage). These last three genus-types are sometimes classified separately as stratocumuliform.
+
+
+== Formation ==
+
+Cumulus clouds form via atmospheric convection as air warmed by the surface begins to rise. As the air rises, the temperature drops (following the lapse rate), causing the relative humidity (RH) to rise. If convection reaches a certain level the RH reaches one hundred percent, and the "wet-adiabatic" phase begins. At this point a positive feedback ensues: since the RH is above 100%, water vapor condenses, releasing latent heat, warming the air and spurring further convection.
+In this phase, water vapor condenses on various nuclei present in the air, forming the cumulus cloud. This creates the characteristic flat-bottomed puffy shape associated with cumulus clouds. The height of the cloud (from its bottom to its top) depends on the temperature profile of the atmosphere and the presence of any inversions. During the convection, surrounding air is entrained (mixed) with the thermal and the total mass of the ascending air increases. Rain forms in a cumulus cloud via a process involving two non-discrete stages. The first stage occurs after the droplets coalesce onto the various nuclei. Langmuir writes that surface tension in the water droplets provides a slightly higher pressure on the droplet, raising the vapor pressure by a small amount. The increased pressure results in those droplets evaporating and the resulting water vapor condensing on the larger droplets. Due to the extremely small size of the evaporating water droplets, this process becomes largely meaningless after the larger droplets have grown to around 20 to 30 micrometres, and the second stage takes over. In the accretion phase, the raindrop begins to fall, and other droplets collide and combine with it to increase the size of the raindrop. Langmuir was able to develop a formula which predicted that the droplet radius would grow unboundedly within a discrete time period.
+
+
+== Description ==
+
+The liquid water density within a cumulus cloud has been found to change with height above the cloud base rather than being approximately constant throughout the cloud. At the cloud base, the concentration was 0 grams of liquid water per kilogram of air. As altitude increased, the concentration rapidly increased to the maximum concentration near the middle of the cloud. The maximum concentration was found to be anything up to 1.25 grams of water per kilogram of air. The concentration slowly dropped off as altitude increased to the height of the top of the cloud, where it immediately dropped to zero again.
+
+Cumulus clouds can form in lines stretching over 480 kilometres (300 mi) long called cloud streets. These cloud streets cover vast areas and may be broken or continuous. They form when wind shear causes horizontal circulation in the atmosphere, producing the long, tubular cloud streets. They generally form during high-pressure systems, such as after a cold front.
+The height at which the cloud forms depends on the amount of moisture in the thermal that forms the cloud. Humid air will generally result in a lower cloud base. In temperate areas, the base of the cumulus clouds is usually below 550 metres (1,800 ft) above ground level, but it can range up to 2,400 metres (7,900 ft) in altitude. In arid and mountainous areas, the cloud base can be in excess of 6,100 metres (20,000 ft).
+
+Cumulus clouds can be composed of ice crystals, water droplets, supercooled water droplets, or a mixture of them. The water droplets form when water vapor condenses on the nuclei, and they may then coalesce into larger and larger droplets. In temperate regions, the cloud bases studied ranged from 500 to 1,500 metres (1,600 to 4,900 ft) above ground level. These clouds were normally above 25 °C (77 °F), and the concentration of droplets ranged from 23 to 1300 droplets per cubic centimeter (380 to 21,300 droplets per cubic inch). This data was taken from growing isolated cumulus clouds that were not precipitating. The droplets were very small, ranging down to around 5 micrometers in diameter. Although smaller droplets may have been present, the measurements were not sensitive enough to detect them. The smallest droplets were found in the lower portions of the clouds, with the percentage of large droplets (around 20 to 30 micrometers) rising dramatically in the upper regions of the cloud. The droplet size distribution was slightly bimodal in nature, with peaks at the small and large droplet sizes and a slight trough in the intermediate size range. The skew was roughly neutral. Furthermore, large droplet size is roughly inversely proportional to the droplet concentration per unit volume of air. In places, cumulus clouds can have "holes" where there are no water droplets. These can occur when winds tear the cloud and incorporate the environmental air or when strong downdrafts evaporate the water.
+
+
+=== Subforms ===
+
+Cumulus clouds come in four distinct species, cumulis humilis, mediocris, congestus, and fractus. These species may be arranged into the variety, cumulus radiatus; and may be accompanied by up to seven supplementary features, cumulus pileus, velum, virga, praecipitatio, arcus, pannus, and tuba.
+The species Cumulus fractus is ragged in appearance and can form in clear air as a precursor to cumulus humilis and larger cumulus species-types; or it can form in precipitation as the supplementary feature pannus (also called scud) which can also include stratus fractus of bad weather. Cumulus humilis clouds look like puffy, flattened shapes. Cumulus mediocris clouds look similar, except that they have some vertical development. Cumulus congestus clouds have a cauliflower-like structure and tower high into the atmosphere, hence their alternate name "towering cumulus". The variety Cumulus radiatus forms in radial bands called cloud streets and can comprise any of the four species of cumulus.
+
+Cumulus supplementary features are most commonly seen with the species congestus. Cumulus virga clouds are cumulus clouds producing virga (precipitation that evaporates while aloft), and cumulus praecipitatio produce precipitation that reaches the Earth's surface. Cumulus pannus comprise shredded clouds that normally appear beneath the parent cumulus cloud during precipitation. Cumulus arcus clouds have a gust front, and cumulus tuba clouds have funnel clouds or tornadoes. Cumulus pileus clouds refer to cumulus clouds that have grown so rapidly as to force the formation of pileus over the top of the cloud. Cumulus velum clouds have an ice crystal veil over the growing top of the cloud.
+
+
+== Forecast ==
+
+Cumulus humilis clouds usually indicate fair weather. Cumulus mediocris clouds are similar, except that they have some vertical development, which implies that they can grow into cumulus congestus or even cumulonimbus clouds, which can produce heavy rain, lightning, severe winds, hail, and even tornadoes. Cumulus congestus clouds, which appear as towers, will often grow into cumulonimbus storm clouds. They can produce precipitation. Glider pilots often pay close attention to cumulus clouds, as they can be indicators of rising air drafts or thermals underneath that can suck the plane high into the sky—a phenomenon known as cloud suck.
+
+
+== Effects on climate ==
+Due to reflectivity, clouds cool the earth by around 12 °C (22 °F), an effect largely caused by stratocumulus clouds. However, at the same time, they heat the earth by around 7 °C (13 °F) by reflecting emitted radiation, an effect largely caused by cirrus clouds. This averages out to a net loss of 5 °C (9.0 °F). Cumulus clouds, on the other hand, have a variable effect on heating the earth's surface. The more vertical cumulus congestus species and cumulonimbus genus of clouds grow high into the atmosphere, carrying moisture with them, which can lead to the formation of cirrus clouds. The researchers speculated that this might even produce a positive feedback, where the increasing upper atmospheric moisture further warms the earth, resulting in an increasing number of cumulus congestus clouds carrying more moisture into the upper atmosphere.
+
+
+== Relation to other clouds ==
+Cumulus clouds are a genus of free-convective low-étage cloud along with the related limited-convective cumuliform or stratocumuliform cloud stratocumulus. These clouds form from ground level to 2,000 metres (6,600 ft) at all latitudes. Stratus clouds are also low-étage. In the middle étage are the alto clouds, which consist of the limiited-convective cumuliform or stratocumuliform cloud altocumulus and the stratiform cloud altostratus. Middle-étage clouds form from 2,000 metres (6,600 ft) to 7,000 metres (23,000 ft) in polar areas, 7,000 metres (23,000 ft) in temperate areas, and 7,600 metres (24,900 ft) in tropical areas. The high-étage clouds are all cirriform, one of which, cirrocumulus, is also cumuliform of limited convection or stratocumuliform. The other clouds in this étage are cirrus and cirrostratus. High-étage clouds form 3,000 to 7,600 metres (9,800 to 24,900 ft) in high latitudes, 5,000 to 12,000 metres (16,000 to 39,000 ft) in temperate latitudes, and 6,100 to 18,000 metres (20,000 to 59,100 ft) in low, tropical latitudes. Cumulonimbus clouds, like cumulus congestus, extend vertically rather than remaining confined to one étage.
+
+
+=== Cirrocumulus clouds ===
+
+Cirrocumulus clouds form in patches and cannot cast shadows. They commonly appear in regular, rippling patterns or in rows of clouds with clear areas between. Cirrocumulus are, like other members of the cumuliform and stratocumuliform categories, formed via convective processes. Significant growth of these patches indicates high-altitude instability and can signal the approach of poorer weather. The ice crystals in the bottoms of cirrocumulus clouds tend to be in the form of hexagonal cylinders. They are not solid, but instead tend to have stepped funnels coming in from the ends. Towards the top of the cloud, these crystals have a tendency to clump together. These clouds do not last long, and they tend to change into cirrus because as the water vapor continues to deposit on the ice crystals, they eventually begin to fall, destroying the upward convection. The cloud then dissipates into cirrus. Cirrocumulus clouds come in four species which are common to all three genus-types that have limited-convective or stratocumuliform characteristics: stratiformis, lenticularis, castellanus, and floccus. They are iridescent when the constituent supercooled water droplets are all about the same size.
+
+
+=== Altocumulus clouds ===
+
+Altocumulus clouds are a middle-étage cloud that forms from 2,000 metres (6,600 ft) high to 4,000 metres (13,000 ft) in polar areas, 7,000 metres (23,000 ft) in temperate areas, and 7,600 metres (24,900 ft) in tropical areas. They can have precipitation and are commonly composed of a mixture of ice crystals, supercooled water droplets, and water droplets in temperate latitudes. However, the liquid water concentration was almost always significantly greater than the concentration of ice crystals, and the maximum concentration of liquid water tended to be at the top of the cloud while the ice concentrated itself at the bottom. The ice crystals in the base of the altocumulus clouds and in the virga were found to be dendrites or conglomerations of dendrites while needles and plates resided more towards the top. Altocumulus clouds can form via convection or via the forced uplift caused by a warm front. Because Altocumulus is a genus-type of limited convection, it is divided into the same four species as cirrocumulus.
+
+
+=== Stratocumulus clouds ===
+
+A stratocumulus cloud is another type of a cumuliform or stratocumuliform cloud. Like cumulus clouds, they form at low levels and via convection. However, unlike cumulus clouds, their growth is almost completely retarded by a strong inversion. As a result, they flatten out like stratus clouds, giving them a layered appearance. These clouds are extremely common, covering on average around twenty-three percent of the earth's oceans and twelve percent of the earth's continents. They are less common in tropical areas and commonly form after cold fronts. Additionally, stratocumulus clouds reflect a large amount of the incoming sunlight, producing a net cooling effect. Stratocumulus clouds can produce drizzle, which stabilizes the cloud by warming it and reducing turbulent mixing. Being a cloud of limited convection, stratocumulus is divided into three species; stratiformis, lenticularis, and castellanus, that are common to the higher stratocumuliform genus-types.
+
+
+=== Cumulonimbus clouds ===
+
+Cumulonimbus clouds are the final form of growing cumulus clouds. They form when cumulus congestus clouds develop a strong updraft that propels their tops higher and higher into the atmosphere until they reach the tropopause at 18,000 metres (59,000 ft) in altitude. Cumulonimbus clouds, commonly called thunderheads, can produce high winds, torrential rain, lightning, gust fronts, waterspouts, funnel clouds, and tornadoes. They commonly have anvil clouds.
+
+
+== Extraterrestrial ==
+Some cumuliform clouds have been discovered on most other planets in the solar system. On Mars, the Viking Orbiter detected cirrocumulus and stratocumulus clouds forming via convection primarily near the polar icecaps. The Galileo space probe detected massive cumulonimbus clouds near the Great Red Spot on Jupiter. Cumuliform clouds have also been detected on Saturn. In 2008, the Cassini spacecraft determined that cumulus clouds near Saturn's south pole were part of a cyclone over 4,000 kilometres (2,500 mi) in diameter. The Keck Observatory detected whitish cumulus clouds on Uranus. Like Uranus, Neptune has methane cumulus clouds. Venus, however, does not appear to have cumulus clouds.
+
+
+== See also ==
+
+List of cloud types
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Footnotes ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+AMS Glossary of Meteorology
+Time-lapse of the formation of Cumulus clouds

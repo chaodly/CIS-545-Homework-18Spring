@@ -1,0 +1,31 @@
+Alpine climate is the average weather (climate) for the regions above the tree line. This climate is also referred to as a mountain climate or highland climate.
+
+
+== Definition ==
+There are multiple definitions of alpine climate.
+One simple definition is the climate which causes trees to fail to grow due to cold. According to the Holdridge life zone system, alpine climate occurs when the mean biotemperature of a location is between 1.5 and 3 °C (34.7 and 37.4 °F), which prevents tree growth. Biotemperature is defined as the temperature, except all temperatures below 0 °C (32 °F) are treated as 0 °C (32 °F), because plants are dormant below freezing.
+In the Köppen climate classification, the alpine climate is part of "Group E", along with the polar climate, where no month has a mean temperature higher than 10 °C (50 °F).
+
+
+== Cause ==
+The temperature profile of the atmosphere is a result of an interaction between radiation and convection. Sunlight in the visible spectrum hits the ground and heats it. The ground then heats the air at the surface. If radiation were the only way to transfer heat from the ground to space, the greenhouse effect of gases in the atmosphere would keep the ground at roughly 333 K (60 °C; 140 °F), and the temperature would decay exponentially with height.
+However, when air is hot, it tends to expand, which lowers its density. Thus, hot air tends to rise and transfer heat upward. This is the process of convection. Convection comes to equilibrium when a parcel at air at a given altitude has the same density as its surroundings. Air is a poor conductor of heat, so a parcel of air will rise and fall without exchanging heat. This is known as an adiabatic process, which has a characteristic pressure-temperature curve. As the pressure gets lower, the temperature decreases. The rate of decrease of temperature with elevation is known as the adiabatic lapse rate, which is approximately 9.8 °C per kilometre (or 5.4 °F per 1000 feet) of altitude.
+Note that the presence of water in the atmosphere complicates the process of convection. Water vapor contains latent heat of vaporization. As air rises and cools, it eventually becomes saturated and cannot hold its quantity of water vapor. The water vapor condenses (forming clouds), and releases heat, which changes the lapse rate from the dry adiabatic lapse rate to the moist adiabatic lapse rate (5.5 °C per kilometre or 3 °F per 1000 feet). The actual lapse rate, called the environmental lapse rate, is not constant (it can fluctuate throughout the day or seasonally and also regionally), but a normal lapse rate is 5.5 °C per 1,000 m (3.57 °F per 1,000 ft). Therefore, moving up 100 metres (330 ft) on a mountain is roughly equivalent to moving 80 kilometres (45 miles or 0.75° of latitude) towards the pole. This relationship is only approximate, however, since local factors, such as proximity to oceans, can drastically modify the climate. As the altitude increases, the main form of precipitation becomes snow and the winds increase. The temperature continues to drop until the tropopause, at 11,000 metres (36,000 ft), where it does not decrease further. However, this is higher than the highest summit.
+
+
+== Distribution ==
+Although this climate classification only covers a small portion of the Earth's surface, alpine climates are widely distributed. For example, The Sierra Nevada, the Cascade Mountains, the Rocky Mountains, the Appalachian Mountains, the summit of Mauna Loa in Hawaii, the Alps, the Snowy Mountains in Australia, the Spanish Pyrenees, Cantabrian Mountains and Sierra Nevada, the Andes, the Himalayas, the Tibetan Plateau, Gansu China, Qinghai, the Eastern Highlands of Africa, high elevations in the Atlas Mountains and the central parts of Borneo and New Guinea.
+The lowest altitude of alpine climate varies dramatically by latitude. If alpine climate is defined by the tree line, then it occurs as low as 650 metres (2,130 ft) at 68°N in Sweden, while on Mount Kilimanjaro in Africa, alpine and the tree line occurs at 3,950 metres (12,960 ft).
+
+
+== Monthly variability ==
+The variability of the alpine climate throughout the year depends on the latitude of the location. For tropical locations, such as the summit of Mauna Loa, the temperature is roughly constant throughout the year:
+For mid-latitude locations, such as Mount Washington the temperature varies, but never gets very warm:
+
+
+== See also ==
+Alpine plant
+Climate of the Alps
+
+
+== References ==

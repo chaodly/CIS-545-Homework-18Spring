@@ -1,0 +1,43 @@
+Desert/Arid climate (in the Köppen climate classification BWh and BWk, sometimes also BWn), also known as an arid climate, is a climate that does not meet the criteria to be classified as a polar climate, and in which precipitation is too low to sustain any vegetation at all, or at most a very scanty shrub.
+An area that features this climate usually experiences from 25 to 200 mm (7.87 inches) per year of precipitation and in some years may experience no precipitation at all. Averages may be even less such as in Arica, Chile, where precipitation normals annually stand at around 1 mm per year. In some instances, an area may experience more than 200 mm of precipitation annually, but is considered a desert climate because the region loses more water via evapotranspiration than falls as precipitation (Tucson, Arizona and Alice Springs, Northern Territory are examples of this).
+There are usually two or three variations of a desert climate: a hot desert climate (BWh), a cold desert climate (BWk) and, sometimes, a mild desert climate (BWh/BWn). Furthermore, to delineate "hot desert climates" from "cold desert climates", there are three widely used isotherms: either a mean annual temperature of 18 °C (which is the most accurate and most commonly used), or a mean temperature of 0 °C or −3 °C in the coldest month, so that a location with a "BW" type climate with the appropriate temperature above whichever isotherm is being used is classified as "hot arid" (BWh), and a location with the appropriate temperature below the given isotherm is classified as "cold arid" (BWk).
+To determine whether a location has an arid climate, the precipitation threshold is determined. The precipitation threshold (in millimetres) involves first multiplying the average annual temperature in °C by 20, then adding 280 if 70% or more of the total precipitation is in the high-sun half of the year (April through September in the Northern Hemisphere, or October through March in the Southern), or 140 if 30%–70% of the total precipitation is received during the applicable period, or 0 if less than 30% of the total precipitation is so received. If the area's annual precipitation is less than half the threshold, it is classified as a BW (desert climate).
+
+
+== Hot desert climates ==
+
+Hot desert climates (BWh) are typically found under the subtropical ridge where there is largely unbroken sunshine for the whole year due to the stable descending air and high pressure aloft. These areas are located between 30 degrees south and 30 degrees north latitude, under the subtropical latitudes called the horse latitudes. Hot desert climates are generally hot, sunny and dry year-round. They rise at a higher latitude in south-western United States in the sheltered regions warmed up in winters by the Pacific Ocean, enabling searing summer temperatures in the Death Valley basin at 36 degrees latitude. Hot desert climates also reach similar latitudes in the Middle East, North Africa and coastal south eastern areas of Spain.
+Hot desert climates usually feature hot, sometimes exceptionally hot, periods of the year. In many locations featuring a hot desert climate, maximum temperatures of over 40 °C (104 °F) are not uncommon in summer and can soar to over 45 °C (113 °F) in the hottest regions. The world absolute heat records are generally in the hot deserts, where the heat potential is the highest on the planet. Some desert locations consistently experience very high temperatures all year long, even during wintertime. These locations feature some of the highest annual average temperatures recorded on Earth, averages which can exceed 30 °C (86 °F). This last feature is seen in some parts of deserts of Africa and Arabia. During colder periods of the year, night-time temperatures can drop to freezing or below due to the exceptional radiation loss under the clear skies. However, very rarely do temperatures drop far below freezing.
+Hot desert climates can be found in the deserts of North Africa such as the wide Sahara Desert, the Libyan Desert or the Nubian Desert; deserts of the Horn of Africa such as the Danakil Desert or the Grand Bara Desert; deserts of Southern Africa such as the Namib Desert or the Kalahari Desert; deserts of the Middle East such as the Arabian Desert, the Syrian Desert or the Lut Desert; deserts of South Asia such as the Thar Desert; deserts of the United States and Mexico such as the Mojave Desert, the Sonoran Desert or the Chihuahuan Desert; deserts of Australia such as the Simpson Desert or the Great Victoria Desert and many other regions. Only one region in Europe has a hot desert climate, Province of Almeria, Province of Alicante and Province of Murcia in South Eastern Spain. Hot deserts are lands of extremes: most of them are the hottest, the driest and the sunniest places on Earth because of nearly constant high pressure; the nearly permanent removal of low pressure systems, dynamic fronts and atmospheric disturbances; sinking air motion; dry atmosphere near the surface and aloft; the exacerbated exposure to the sun where solar angles are always high.
+
+
+== Cold desert climates ==
+
+Cold desert climates (BWk) usually feature warm (usually hot) and dry summers, though summers typically are not quite as hot as summers in hot desert climates. Unlike hot desert climates, cold desert climates tend to feature cold winters with rare snow. Cold desert climates are typically found at higher altitudes than hot desert climates, and are usually drier than hot desert climates.
+A cold desert climate is typically found in temperate zones, almost always in the rain shadow of high mountains which restrict precipitation from the westerly winds, or in the case of Central Asia, from the monsoon. The Gobi desert in Mongolia is a classic example of a region with a cold desert climate. Though hot in summer, it shares the very cold winters of the rest of Central Asia. The Kyzyl Kum and Taklamakan deserts of Central Asia and the drier portions of the Great Basin Desert of the western United States are other major examples of BWk climates. The Ladakh region, lying in the Great Himalayas in India, also has a cold desert climate. This is also found in Europe, primarily in the Province of Almeria, Province of Alicante, and the Province of Murcia in South Eastern Spain. 
+Arctic and Antarctic regions also receive very little precipitation during the year, owing to the exceptionally cold dry air, however, both of them are generally classified as having polar climates because they have average summer temperatures below 10 °C (50 °F).
+
+
+== Mild desert climates ==
+
+Mild desert climates (BWh or BWn) are usually found along the west coasts of continents at tropical or near tropical locations, or at high altitudes in areas that would otherwise feature hot desert climates. In South America, this climate is found adjacent to the Pacific Ocean in sections of the Atacama Desert, especially along the central and southern coast of Peru; Lima, its capital, has a mild desert climate that makes it one of the driest capital cities in the world. In North America, this type of climate can be found along the Pacific coast of the Baja California Peninsula. In Africa, this climate is found along sections of coastal Namibia (Swakopmund). On the Arabian Peninsula, this type of climate is found in sections of Yemen.
+Mild desert climates are characterised by more moderate temperatures than encountered elsewhere at comparable latitudes (usually due to the nearby presence of cold ocean currents) and, in the case of coastal mild deserts, frequent fog and low clouds, despite the fact that these places can rank among the driest on Earth in terms of actual precipitation received. Temperatures are mild throughout the year, usually not subject to any of the temperature extremes typically found in desert climates. Some publications do not have a "mild desert" category; in these documents mild desert climates are sorted into either the hot desert or cold desert classifications.
+
+
+== Regions of varying classification ==
+
+As stated previously, there are three isotherms used to delineate between hot and cold desert climates. As a result of this, some areas can have climates that are classified as hot or cold depending on the isotherm used. However the 18 °C isotherm is the most accurate and most used isotherm as it reflects on all the months temperatures not just one months temperature.
+
+
+== References ==
+
+
+== See also ==
+Arid
+Desert
+List of deserts
+
+
+== External links ==
+Desert climate summary
+Desert report/essay

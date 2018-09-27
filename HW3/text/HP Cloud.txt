@@ -1,0 +1,143 @@
+HP Cloud is a set of cloud computing services available from Hewlett-Packard (HP) that offered public cloud, private cloud, hybrid cloud, managed private cloud, and other cloud services. It was the combination of the previous HP Converged Cloud business unit  and HP Cloud Services, which is the OpenStack technology-based public cloud. It is used by enterprise organizations so they can combine public cloud services with their own internal IT resources to create hybrid clouds, or a mix of different cloud computing environments made up of private and public clouds.
+
+
+== History ==
+HP Converged Cloud was announced in April 2012. HP Converged Cloud is managed under a Hewlett-Packard business unit established in 2013 named The Converged Cloud unit, headed by Saar Gillai as Senior Vice President and General Manager of Converged Cloud.
+HP Public Cloud was announced on March 14, 2011, and launched as a public beta on May 10, 2012. HP Fellow and MySQL author Brian Aker announced the Relational Database Service on stage at the 2012 MySQL User's Conference. The HP Public Cloud Beta that went live in May 2012 included OpenStack technology-based storage and content delivery network (CDN) components. HP Cloud Object Storage and HP Cloud CDN were moved into general availability on August 1, 2012. HP Cloud DNS as a Service was moved into general availability on July 1, 2013.
+The two business units were merged in late 2013 and announced at the HP Discover event in Barcelona, Spain.
+On May 7, 2014, HP announced the HP Helion portfolio of products and services, and stated that the company plans to invest over $1 billion in cloud over the next two years. HP Helion includes HP's existing cloud products, new OpenStack technology-based services, and both professional and support services to assist businesses in building and managing hybrid IT environments.
+On October 21, 2015, HP announced that it would shut down the HP Cloud in January, 2016. 
+
+
+== Cloud computing challenges ==
+
+
+=== Moving between clouds ===
+Business organizations that want to use cloud computing have a choice of using a private cloud, which is a cloud infrastructure run specifically for a single organization that it built itself or by a third-party; or a public cloud, whereby a service provider makes available applications, storage, and other resources to the general public. The decision of which to use is based on a number of factors, such as whether the company operates in a highly regulated sector, such as the pharmaceuticals industry that must comply with rules regarding the control and security of data, or if the business must bring services to market quickly, such as a web applications developer. The first would opt for a private cloud for security peace of mind, while the web developer would choose a public cloud offering. Most companies would operate a mixture the two, also known as hybrid cloud delivery.
+Employing a hybrid delivery cloud strategy lets organizations use different cloud delivery services for specific applications. For instance, a public cloud may be a more cost-effective service for the compute-intensive task of processing analytics, but the data would remain local, or private, to comply with regulations. Because a hybrid delivery strategy lets organizations run applications and services across different clouds, collocation, and data centers, an example benefit of such a delivery mechanism is that organizations can move an app from one geographic location to another in major storms.
+There can be different types of hybrid clouds for specific tasks. The Infrastructure as a Service (IaaS) model can be a hybrid cloud in that it could use operating systems and virtualization technologies from both a public and private cloud infrastructure to provide cloud services. Other models that mix on-premises cloud with public cloud technologies include Platform as a Service (PaaS), which includes infrastructure services combined with development tools and middleware; and Software as a Service (SaaS), which is used to develop packaged software.
+However, moving data in the cloud can be a difficult procedure. In the case of Software as a Service (SaaS), it is difficult particularly if the incumbent cloud provider used proprietary software, or if it altered an open source application.
+A way to mitigate cloud migration difficulties is to architect applications for the cloud that reduce or eliminate the dependencies between the cloud application stack and the capabilities of the cloud service provider. Another way is to select only generic and higher-level applications to move to the cloud in the first place. Another method is to select open standards for cloud computing.
+A best practice for avoiding cloud migration problems is to use a management platform that can support applications in any environment a user organization is likely to use. This has been described as using a "best-of-breed" approach.
+
+
+=== Cloud professional services ===
+Companies engage cloud professional services consultants to help them plan how to incorporate cloud services into their business operations. Consultants advise businesses on whether to use public, private, or a hybrid delivery model, and how they should implement or consume those delivery models. For example, cloud professional services consultants might recommend that businesses interested in cost savings place appropriate applications in the public cloud, but keep a higher-security application in a private cloud or Hybrid cloud.
+According to research conducted by HP in 2013, 43 percent of companies surveyed indicated that they wanted strategic guidance on how to deploy cloud. In a 2013 competitive vendor analysis report by International Data Corporation, a market research firm, the authors state that cloud professional services can help companies map out both a short-term and a long-term strategy for how to use cloud in a way that aids their business goals.
+The most common reason businesses engage cloud professional services are for assistance with incorporating cloud technology into existing IT environments, and to plan how to implement cloud, according to a study published in February 2014 by the independent research firm Technology Business Research, Inc. According to published reports, the use of cloud professional services indicates that businesses do not have adequate internal resources that are knowledgeable about implementing cloud.
+
+
+== HP Cloud characteristics and components ==
+
+
+=== Converged infrastructure ===
+HP Cloud follows the premise of Converged infrastructure: the integration of compute, storage, and networking components and technologies into self-provisioning pools of shared resources, and supported by IT services. One of the benefits of a data center based on converged infrastructure, including a converged infrastructure data center that delivers cloud services, is that manual tasks can be automated, thus reducing the time and cost to carry them out.
+
+
+=== Open standards ===
+HP Cloud is neutral regarding the manufacturer of cloud components used, such as virtual machine hypervisors, operating systems, and development environments. For example, HP Cloud supports all hypervisors, including those from VMware, Microsoft, and Red Hat.
+HP Cloud is based on OpenStack technology. This allows user organizations to move cloud applications between HP cloud systems and other cloud systems based on OpenStack technology. The support for open standards technology enables user organizations to employ a hybrid delivery strategy for their cloud consumption. It also means private clouds based on converged infrastructure are compatible with public cloud platforms based on OpenStack technology, such as RackSpace and Nebula. The benefit is that user organization can decouple their applications from being tied to a particular hardware platform. User organizations may want to do this when they want to move key workloads to another Infrastructure-as-a-Service supplier.
+
+
+=== Components ===
+
+HP CloudSystem is a component of HP Cloud. It enables user organizations to burst workloads to external or internal cloud resources in times of increased workloads or when they want additional compute resources. This function is known as cloud bursting.
+
+
+=== Industry sector packages ===
+HP Cloud includes a number of packages for different industry sectors. For instance, HP Cloud Services for Airlines integrates Software as a service (SaaS) and infrastructure-as-a-service (IaaS) to the airline industry. Applications for that include HP Passenger Service Solution, which integrates travel and transportation industry applications into a single airline booking and travel SaaS environment.
+
+
+== HP Helion Professional Services ==
+HP Professional Services consultants work with user organizations to help them create cloud environments. Businesses that engage with HP Professional Services are those that want to use hybrid cloud and other cloud configurations. These businesses receive advice on how they can implement cloud in a consistent manner and how to get value from their cloud investment. Businesses also receive advice on how to manage the cloud.
+
+
+=== Services ===
+HP Cloud Advisory Services—Delivers information on the possible uses for cloud services and solutions and identifies opportunities to begin implementing cloud.
+HP Cloud Strategy Services—Develops a business case for moving to cloud, plans how to shift some resources from traditional IT to cloud resources, and designs a multi-year strategy on how to incorporate private, public, and hybrid cloud with traditional IT environments.
+HP Applications Transformation to Cloud Services—Delivers design, development, migration, and testing services to enable new and existing applications and business processes to run in the cloud.
+HP Cloud Design Services—Provides user organizations with recommended practices for using cloud and frameworks for building detailed architectures and designs for cloud solutions.
+HP Cloud Implementation Services—Helps build, integrate, migrate, and deploy cloud solutions based on detailed design and architecture with a transition to operations.
+HP Cloud Operation Services—Provides support services for a company's cloud environment.
+HP Cloud Education Services—Trains and certifies a company's IT staff and third-party partners to help them architect, integrate, and administer cloud solutions.
+HP Helion OpenStack Professional Services—Consultants help a company plan, implement, and run HP clouds in a hybrid IT environment based on the OpenStack technology.
+
+
+== HP Helion Managed Virtual Private Cloud ==
+HP Enterprise Services is a global division of Hewlett-Packard that provides business and technology services and is a subsidiary of the HP Enterprise Business unit. HP Enterprise Services are designed to assist businesses with services that include cloud computing, systems integration, network and systems operations, data center management, and applications development. A Virtual private cloud (VPC) consists of a collection of computing resources that are shared and allotted from within a public cloud installation’s Multitenant architecture. The VPC can be configured on demand and allows one VPC user to be isolated from other VPC users.
+HP Helion Managed Virtual Private Cloud is a managed cloud providing VPC features. It includes security features for businesses that connect to a public cloud through an on-site network, using Software-defined networking technology. There are five different sizes of VPC installations. Businesses can either manage the VPC themselves or pay a fee to have HP manage it. Multiple copies of a Virtual LAN (VLAN) are supplied with HP Helion Managed Virtual Private Cloud. This provides a method for businesses to connect through the Firewall from their on-site network into the VPC, so that the VPC appears to be part of the on-site network.
+Businesses that use HP Helion Managed Virtual Private Cloud receive encrypted backup on a daily basis, performed by HP. The service also performs automated load balancing across the virtual servers in the cloud. Data is stored off-site for the File systems and Server operating systems. User organizations choose to retain this data by HP for 30, 60, or 90 days. HP retains local backups of SQL Server or Oracle databases in the HP data center for 15 or 30 days; offsite backups can be retained for 15 to 90 days. User organizations choose 50GB, 100GB, or one-terabyte blocks of Storage area network (SAN) storage for server nodes, for which high-availability clustering can be added. Instances for Microsoft Windows Server, Red Hat Enterprise Linux, and SUSE Linux Enterprise Server can be provided for HP Helion Managed Virtual Private Cloud.
+HP As-a-Service Solution for SAP HANA, a version of HP Helion Managed Virtual Private Cloud, is a service for the SAP HANA in-memory database. Migration services are for businesses that want to move to the SAP HANA platform. The system is designed to enable businesses to analyze big data. Similar services exist for Enterprise Cloud Services for Oracle and HP Enterprise Cloud Services for Microsoft Dynamics CRM. According to published reports, organizations using HP Enterprise Cloud Services for Microsoft Dynamics CRM can use CRM software in a secure fashion and not pay up front for the infrastructure to run it.
+
+
+=== Sample installations ===
+In November 2013, HP Enterprise Services opened in Barcelona the first of two planned data centers to host VPC in Spain. According to published reports, the data centers provide disaster recovery services and high availability. Acting as an investment partner in the project, the government of Catalonia has stated that it intends to use the HP Helion Managed Virtual Private Cloud to reduce by 25 to 30 percent the costs of its Centre for Telecommunications and Information Technology.
+The offshore drilling company Seadrill migrated its worldwide data center operations to HP Helion Managed Virtual Private Cloud in July 2013. According to published reports, Seadrill chose the HP product over competing IBM and Capgemini products because it believed the HP Helion Managed Virtual Private Cloud was less expensive and configured so that Seadrill could continue to run legacy applications in its own physical data center.
+UNIT4 Business Software announced in February 2014 that it has contracted to use HP Helion Managed Virtual Private Cloud as a secure method to deliver services to its education clients in the United Kingdom.
+
+
+== HP Public Cloud ==
+HP Public Cloud was a public cloud service from Hewlett-Packard (HP) that offered compute, storage, and platform services that were accessible via the public Internet to developers, independent software vendors (ISVs), SMBs, and enterprises of all sizes (including public sector). HP built its cloud infrastructure using OpenStack technology, an open source cloud infrastructure project, and planned to deliver end-to-end, converged cloud capabilities that let users manage their cloud deployments across hybrid, private, managed private, and public cloud delivery models with HP Public Cloud offering an open, interoperable, intuitive, and reliable public cloud option.
+
+
+=== Cloud solutions ===
+Archival as a Service is the automated movement and retention of unstructured information in the cloud to improve performance, scale, and manageability of applications while conforming to compliance and e-discovery requirements. Data archiving is often confused with data backups, which are copies of active data which is needed for computing on a frequent basis.
+Backup as a Service is for organizations of all sizes that need to back-up active data regularly to avoid losses, stay compliant and preserve data integrity.
+Collaboration as a Service enables organizations to manage data and enable file/information sharing with minimal latency.
+PC and Mobile Backup and Synchronization enables enterprise and SMB workers to use multiple devices to create, share and access data.
+Big Data Processing to analyze and index large data volumes in the hundreds of petabytes in size, as well run distributed queries across multiple data sets and then returned in near real time.
+Enterprise Application Migration is an open cloud interface based on standards-based OpenStack APIs to support on-premises server migration. It provides a variety of solution tools from HP solution partners to deploy complex multi-tier applications.
+Managing Production Workloads
+Mobile Application Development and Deployment solutions provides the platform developers need to host existing software on the Internet and to host e-commerce, e-marketing, and SaaS sites as well.
+Test & Development solution enables access to dev/test environments on demand, and speed up time to market by deploying computing resources and adding capacity in minutes on a pay-as-you-go basis.
+Database Archiving
+Bursting to the HP Cloud is a HP Public Cloud solution that provides enterprises a common architecture across private cloud, managed cloud, and public cloud with traditional IT infrastructures to “Burst” from smaller private clouds into the public cloud during peak demand periods. HPCS is integrated with HP CloudSystem, cloud infrastructure from HP that combines storage, servers, networking and software for organizations to build complete private, public and hybrid cloud computing environments.
+
+
+=== Cloud products ===
+HP Cloud Compute is a public cloud compute solution that can deliver a virtual server on demand. New virtual servers, or compute instances, can be brought online in seconds and can be fully customized to meet a variety of computing needs. It is built on OpenStack's open source operating environment and enhanced with unique HP technology.
+HP Cloud Object Storage is a public cloud storage solution that delivers secure, scalable capacity on demand. Storage capacity can be obtained online in seconds, allowing a flexible, manageable computing environment.
+HP Cloud Content Delivery Network (CDN) is a webservice that delivers data from HP Cloud Object Storage to users all around the world. Using an extensive global network of servers from HP and Akamai Technologies, HP Cloud CDN routes content to local servers closest to customers.
+HP Cloud Block Storage enables organizations to store data from HP Cloud Compute instances for as long as needed. HP Cloud Block Storage is ideal for applications requiring frequent read/write access such as web applications.
+HP Cloud Relational Database is a managed, web-based service that provides users with on-demand access to a relational database in the cloud.
+HP Cloud Load Balancers are a managed load balancing service that allow for the automatic distribution of incoming traffic across compute resources.
+HP Cloud DNS is an enterprise-grade domain name system featuring anycast routing.
+HP Cloud Monitoring delivers fundamental compute and block storage metrics, providing visibility into resource utilization, application performance, and operational health.
+HP Cloud Application Platform as a Service is an application platform for development, deployment, and management of cloud applications using any language on any stack.
+
+
+=== Partner ecosystem ===
+HP Public Cloud had created a Cloud Partner Ecosystem that enabled partners to provide services that use the HP Public Cloud infrastructure. The Solution Partners program was designed to help Solution Partners enhance their cloud offering and increase exposure to new customers and markets. Solution Partners offered software, applications and cloud services on top of and/or integrated with HP Public Cloud. The program consisted of a set of tools, best practices, documentation, and support.
+Solution partners such as platform as a service (PaaS) and software as a service (SaaS) vendors provide cloud-based web services including:
+Applications
+Database
+Development & Testing
+Management, e.g., Orchestration
+Mobile computing
+Monitoring
+Multimedia
+Platform as a Service
+Security
+Storage
+Technology
+The Public Cloud Program for VARs enables channel partners to expand their cloud portfolio and market reach. Examples of partner and company types that benefit from this program include:
+Value-added resellers
+Channel partners
+Consulting firms
+Content services, e.g., websites, mobile apps, intranet sites
+Deployment, migration, and transformation services
+Digital agencies
+Systems integrator (SIs)
+Professional services
+The Public Cloud Program for GSIs enables system integrators to expand their cloud practice with the complete HP Converged Cloud offering including HP Public Cloud.
+
+
+== References ==
+
+
+== External links ==
+HP Helion Professional Services
+HP Helion Managed Virtual Private Cloud
+HP Public Cloud - Public Cloud Only
+HP Cloud - official site
+HP Cloud Blog
